@@ -1,0 +1,100 @@
+Candidate: YARMUTH, JOHN
+Result:
+
+=====LINK SOURCE: https://www.yarmuthforcongress.com/=====
+
+ <tag> h2
+
+
+
+
+Main navigation
+
+MEET JOHN
+
+TAKE ACTION
+
+JOHN ON THE ISSUES
+
+ <tag> p
+
+
+
+
+2018 Brownsboro Road Louisville, KY 40206 (502) 891-8914
+
+Born and raised in Louisville, Kentucky, Congressman Yarmuth graduated from Atherton High School, where he served as student government president. He went on to earn a degree in American Studies from Yale University. He and his wife, Cathy, have one son, Aaron, who graduated from Indiana University in 2006 and earned a Masters Degree from American University in 2010.
+
+campaign@yarmuthforcongress.com
+
+PAID FOR BY YARMUTH FOR CONGRESS
+
+ <tag> li
+
+
+
+
+REQUEST A YARD SIGN
+
+Healthcare
+
+ISSUES
+
+VOTING
+
+Energy
+
+Education and Workforce
+
+CONTRIBUTE
+
+ABOUT JOHN
+
+Safe Communities
+
+Seniors
+
+VOLUNTEER
+
+Veterans
+
+CONTACT
+
+ <tag> span
+
+
+
+
+REQUEST A YARD SIGN
+
+Healthcare
+
+ISSUES
+
+VOTING
+
+Energy
+
+Education and Workforce
+
+CONTRIBUTE
+
+Safe Communities
+
+Seniors
+
+VOLUNTEER
+
+Veterans
+
+CONTACT
+
+ABOUT
+
+JOHN
+
+
+Number of links (dup removed)14
+
+All links:
+{'https://www.yarmuthforcongress.com/node/8', 'https://www.yarmuthforcongress.com/yardsign', 'https://www.yarmuthforcongress.com/node/4', 'https://www.yarmuthforcongress.com/node/6', 'https://www.yarmuthforcongress.com/contact', 'https://www.yarmuthforcongress.com/', 'https://www.yarmuthforcongress.com/voting', 'https://www.yarmuthforcongress.com/contribute', 'https://www.yarmuthforcongress.com/volunteer', 'https://www.yarmuthforcongress.com/issues', 'https://www.yarmuthforcongress.com/node/5', 'https://www.yarmuthforcongress.com/node/7', 'https://www.yarmuthforcongress.com/about-john', 'https://www.yarmuthforcongress.com/node/1'}

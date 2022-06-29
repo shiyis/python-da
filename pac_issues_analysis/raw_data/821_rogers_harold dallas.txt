@@ -1,0 +1,52 @@
+Candidate: ROGERS, HAROLD DALLAS
+Result:
+
+=====LINK SOURCE: https://vote.congressmanhalrogers.com/=====
+
+ <tag> h3
+
+
+VOTE ON OR BEFORE NOVEMBER 3RD!
+
+ <tag> h4
+
+
+Absentee
+
+On Election Day
+
+Early In-Person
+
+ <tag> p
+
+
+
+
+Check your county's location on the Secretary of State's website.
+
+PAID FOR BY HAL ROGERS FOR CONGRESS
+
+Check your county's location and hours on the Secretary of State's website.
+
+Sign up for our email list to get regular updates!
+
+Mail back or drop off your completed absentee ballot before Tuesday, November 3rd. Be sure to sign both envelopes.
+
+Contributions are not tax deductible. Privacy • Contact
+
+Monday-Saturday, October 13th-November 2nd.
+
+Tuesday, November 3rd!
+
+ <tag> span
+
+
+
+
+PAID FOR BY HAL ROGERS FOR CONGRESS
+
+
+Number of links (dup removed)2
+
+All links:
+{'about:blank', 'https://vote.congressmanhalrogers.com/'}

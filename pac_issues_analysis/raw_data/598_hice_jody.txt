@@ -1,0 +1,56 @@
+Candidate: HICE, JODY
+Result:
+
+=====LINK SOURCE: https://www.jodyhice.com/=====
+
+ <tag> h1
+
+
+LET'S RENEW INTEGRITY
+
+ <tag> p
+
+
+
+
+Announcement
+
+Paid for by Georgians for Jody Hice, Inc.
+
+Contact
+
+Stay up-to-date!
+
+Republican Candidate for Georgia Secretary of State
+
+Home
+
+ <tag> li
+
+
+Announcement
+
+
+
+Contact
+
+Home
+
+ <tag> span
+
+
+
+
+LET'S RENEW INTEGRITY
+
+Republican Candidate for Georgia Secretary of State
+
+Donate
+
+Subscribe Now
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://www.jodyhice.com/contact', 'https://www.jodyhice.com/announcement', 'https://www.jodyhice.com/'}

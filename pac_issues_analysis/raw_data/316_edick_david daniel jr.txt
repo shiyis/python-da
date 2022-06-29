@@ -1,0 +1,7 @@
+Candidate: EDICK, DAVID DANIEL JR
+Result:
+
+Number of links (dup removed)0
+
+All links:
+set()

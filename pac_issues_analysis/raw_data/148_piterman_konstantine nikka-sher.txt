@@ -1,0 +1,182 @@
+Candidate: PITERMAN, KONSTANTINE NIKKA-SHER
+Result:
+
+=====LINK SOURCE: https://www.nikka2020.com/=====
+
+ <tag> h2
+
+
+Donate Today!
+
+ <tag> h3
+
+
+STRONGER
+
+MAKE AMERICA
+
+ <tag> p
+
+
+
+
+Shop
+
+Paid for by Nikka for Congress FEC ID: C00708214
+
+Home
+
+Campaign
+
+Platform
+
+ <tag> li
+
+
+
+
+Shop
+
+Tax Cuts for All Americans
+
+Home
+
+U.S. Space Force Establishment
+
+Medical Cannabis & Hemp Legalization
+
+Campaign
+
+Adopt the Metric System
+
+Platform
+
+Vote for Puerto Rico Statehood
+
+ <tag> span
+
+
+Donate Today!
+
+Tax Cuts for All Americans
+
+U.S. Space Force Establishment
+
+Medical Cannabis & Hemp Legalization
+
+MAKE AMERICA
+
+NIKKA PITERMAN
+
+FOR U.S. CONGRESS
+
+Adopt the Metric System
+
+STRONGER
+
+Vote for Puerto Rico Statehood
+
+California's 13th District
+
+
+=====LINK SOURCE: https://www.nikka2020.com/get-involved=====
+
+ <tag> h2
+
+
+STRONGER
+
+Donate Today!
+
+MAKE AMERICA
+
+ <tag> p
+
+
+
+
+Paid for by Nikka for Congress FEC ID: C00708214
+
+ <tag> li
+
+
+
+
+Shop
+
+Campaign
+
+ <tag> span
+
+
+
+
+Donate Today!
+
+MAKE AMERICA
+
+Submit
+
+NIKKA PITERMAN
+
+FOR U.S. CONGRESS
+
+Join the Campaign!
+
+STRONGER
+
+California's 13th District
+
+REGISTER TO VOTE
+
+
+=====LINK SOURCE: https://www.nikka2020.com/shop=====
+
+ <tag> h2
+
+
+Donate Today!
+
+ <tag> h3
+
+
+Make America Stronger T-Shirt
+
+ <tag> p
+
+
+
+
+Paid for by Nikka for Congress FEC ID: C00708214
+
+ <tag> li
+
+
+
+
+Shop
+
+Make America Stronger T-Shirt Price $20.20
+
+Campaign
+
+ <tag> span
+
+
+Donate Today!
+
+Price
+
+NIKKA PITERMAN
+
+FOR U.S. CONGRESS
+
+$20.20
+
+California's 13th District
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://www.nikka2020.com/', 'https://www.nikka2020.com/shop', 'https://www.nikka2020.com/get-involved'}

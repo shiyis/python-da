@@ -1,0 +1,10 @@
+Candidate: BEACH, BRANDON
+Result:
+
+=====LINK SOURCE: https://www.beachforcongress.com/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.beachforcongress.com/'}

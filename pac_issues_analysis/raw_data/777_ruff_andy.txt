@@ -1,0 +1,10 @@
+Candidate: RUFF, ANDY
+Result:
+
+=====LINK SOURCE: https://www.andyruff.org/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.andyruff.org/'}

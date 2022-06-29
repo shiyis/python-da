@@ -1,0 +1,29 @@
+Candidate: WEBBER, ERROL MR.
+Result:
+
+=====LINK SOURCE: https://www.webber2020.com/=====
+
+ <tag> strong
+
+
+
+
+www.webber2020.com
+
+ <tag> p
+
+
+
+
+www.webber2020.com sent an invalid response.
+
+ <tag> span
+
+
+This site can’t provide a secure connection
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.webber2020.com/'}

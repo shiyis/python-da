@@ -1,0 +1,20 @@
+Candidate: ST. GEORGE, JAMES
+Result:
+
+=====LINK SOURCE: https://www.votestgeorge.com/=====
+
+ <tag> h2
+
+
+Page Not Found
+
+ <tag> p
+
+
+votestgeorge.com
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.votestgeorge.com/'}

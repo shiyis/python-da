@@ -1,0 +1,41 @@
+Candidate: RICHARDS, BRET A DR.
+Result:
+
+=====LINK SOURCE: https://richardsforcongress.com/=====
+
+ <tag> h2
+
+
+
+
+BRET RICHARDS
+
+JOIN TEAM BRET
+
+ <tag> p
+
+
+
+
+Stay connected with updates from Bret and learn how you can help!
+
+YOUR NEIGHBOR, OUR FUTURE
+
+ <tag> span
+
+
+
+
+CONTRIBUTE
+
+SIGN UP
+
+JOIN THE TEAM
+
+Send me SMS updates
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://richardsforcongress.com/volunteer/', 'https://richardsforcongress.com/contribution/', 'https://richardsforcongress.com/'}

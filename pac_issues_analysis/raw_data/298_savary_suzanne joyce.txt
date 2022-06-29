@@ -1,0 +1,26 @@
+Candidate: SAVARY, SUZANNE JOYCE
+Result:
+
+=====LINK SOURCE: http://www.drsuesavary.com/=====
+
+ <tag> p
+
+
+
+
+Check if there is a typo in www.drsuesavary.com.
+
+ <tag> span
+
+
+This site can’t be reached
+
+
+
+www.drsuesavary.com
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://www.drsuesavary.com/'}

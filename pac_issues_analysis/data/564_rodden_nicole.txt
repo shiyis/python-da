@@ -1,0 +1,101 @@
+Candidate: RODDEN, NICOLE
+Result:
+
+=====LINK SOURCE: https://www.nicoleroddenforcongress.com/home=====
+
+ <tag> h2
+
+
+READY.
+
+I'M
+
+ARE YOU?
+
+ <tag> h5
+
+
+INVEST
+
+VOLUNTEER
+
+STAY CONNECTED
+
+ <tag> p
+
+
+HOME
+
+
+
+ISSUES
+
+Together, Republicans can take back Georgia's 6th Congressional District!
+
+MEET NICOLE
+
+Sign up for our newsletter to receive updates on the campaign and upcoming events.
+
+Nicole Rodden was honorably discharged from the U.S. Navy Reserves.
+
+We can't do it without you? Join the fight to take back the 6th District!
+
+Paid For By Nicole Rodden for Congress, Inc.
+
+Donate to Nicole's campaign by clicking the button above.
+
+Images do not imply endorsement by the Department of Defense or any Service Branch.
+
+ <tag> li
+
+
+HOME
+
+
+
+ISSUES
+
+MEET NICOLE
+
+ <tag> span
+
+
+
+
+Together, Republicans can take back Georgia's 6th Congressional District!
+
+Republicans
+
+ARE YOU?
+
+Sign up for our newsletter to receive updates on the campaign and upcoming events.
+
+Subscribe
+
+Nicole Rodden was honorably discharged from the U.S. Navy Reserves.
+
+VOLUNTEER
+
+We can't do it without you? Join the fight to take back the 6th District!
+
+DONATE
+
+INVEST
+
+Paid For By Nicole Rodden for Congress, Inc.
+
+Donate to Nicole's campaign by clicking the button above.
+
+READY.
+
+I'M
+
+Images do not imply endorsement by the Department of Defense or any Service Branch.
+
+STAY CONNECTED
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://www.nicoleroddenforcongress.com/home', 'https://www.nicoleroddenforcongress.com/meet-nicole', 'https://www.nicoleroddenforcongress.com/issues'}

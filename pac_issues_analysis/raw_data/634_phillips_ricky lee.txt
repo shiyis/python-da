@@ -1,0 +1,10 @@
+Candidate: PHILLIPS, RICKY LEE
+Result:
+
+=====LINK SOURCE: https://theswampfox.net/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://theswampfox.net/'}

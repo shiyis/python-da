@@ -1,0 +1,86 @@
+topic 1:      social_policy
+keyword 1:    ['welfare', 'woman', 'women', 'lgbtq', 'gun control', 'abortion', 'planned parenthood', 'race', 'ethnicity', 'religion', 'gay marriage', 'adoption', 'women in combat', 'gender', 'reproduction', 'death penalty', 'seniors', 'prochoice', 'prolife', 'birth control', 'minority']
+not_match 1:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 1:   ['social policy']
+label 1:      0
+topic 2:      occupation
+keyword 2:    ['basic income', 'equal pay', 'taxes', 'labor', 'sick leave', 'pay', 'payment', 'overtime', 'tariffs', 'pension', 'banks', 'banking', 'jobs', 'career', 'gnd', 'minimum wage', 'poverty', 'workers', 'farmers']
+not_match 2:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 2:   ['minimum wage', 'pay scale', 'payroll']
+label 2:      1
+topic 3:      economy 
+keyword 3:    ['economy', 'economic growth', 'federal funding', 'businesses', 'small businesses', 'spend', 'spending', 'booming', 'stagnant', 'money', 'funding', 'fund', 'finance', 'market', 'value', 'trade', 'stocks', 'real estate', 'assets']
+not_match 3:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 3:   ['economic growth']
+label 3:      2
+topic 4:      election 
+keyword 4:    ['vote', 'transparency', 'gerrymander', 'fraud', 'advocate', 'pro', 'against', 'donate', 'campaign', 'lobby', 'pac', 'political action committee', 'rig', 'politician']
+not_match 4:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 4:   ['election results', 'pac', 'voter', 'voting', 'votes']
+label 4:      3
+topic 5:      education
+keyword 5:    ['education', 'prek', 'school', 'public school', 'student', 'tuition', 'student loan', 'textbooks', 'tuition waiver', 'education system reform', 'schooling', 'private school', 'scholarship', 'fellowship']
+not_match 5:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 5:   ['college fund', 'college tuition', 'tuition reduction', 'scholarship', 'student debt']
+label 5:      4
+topic 6:      healthcare
+keyword 6:    ['healthcare', 'medicaid', 'medicare', 'health care reform', 'mental health', 'preexisting conditions', 'vaccine', 'obamacare', 'pharm', 'chem', 'drug price', 'health insurance', 'birth control', 'vaccination', 'health care']
+not_match 6:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 6:   ['n']
+label 6:      5
+topic 7:      security_policy
+keyword 7:    ['national security', 'military force', '911', 'terror', 'security fence', 'national safety', 'nsa', 'fbi', 'cia', 'armed force', 'military', 'military congress', 'washington dc', 'capitol', 'federal force', 'law enforcement', 'supreme court']
+not_match 7:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 7:   ['national security', 'military congress', 'militarized government']
+label 7:      6
+topic 8:      domestic_policy
+keyword 8:    ['local', 'internet', 'net neutrality', 'supreme court', 'nsa', 'social media', 'term limits', 'drug policy', 'military service', 'gun control', 'armed force', 'ammunition', 'guns', 'gun liability', 'political advertising', 'political advertisement', 'government control', 'local police', 'local government', 'local community', 'second amendment', 'affirmative action', 'domestic abuse', 'constitution']
+not_match 8:  ['foreign', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 8:   ['net neutrality', 'consitutional rights', 'consitutional principles']
+label 8:      7
+topic 9:      foreign_policy
+keyword 9:    ['international', 'foreign government', 'international', 'overseas', 'iran', 'china', 'cuba', 'israel', 'afghanistan', 'foreign aid', 'foreign bribery', 'syria', 'refugees', 'nato', 'united nations', 'un', 'jerusalem', 'terrorism', '911', 'russian', 'foreign influence']
+not_match 9:  ['domestic', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 9:   ['foreign aid', 'international trade', 'foreign policy']
+label 9:      8
+topic 10:      immigration
+keyword 10:    ['immigration', 'immigrants', 'green card', 'border', 'illegal immigrants', 'muslim', 'criminal immigrants', 'sanctuary', 'immigration ban', 'immigrant labor', 'skilled', 'citizenship', 'dual citizenship']
+not_match 10:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 10:   ['n']
+label 10:      9
+topic 11:      environment
+keyword 11:    ['climate', 'climate change', 'nature', 'natural resources', 'oil drilling', 'earth', 'soil', 'pollution', 'emission', 'animals', 'wild life', 'plastic', 'alternative energy', 'animal testing', 'animal experiments', 'the global green new deal', 'gnd']
+not_match 11:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 11:   ['climate change', 'green new deal', 'wild life', 'natural resources']
+label 11:      10
+topic 12:      science
+keyword 12:    ['science', 'scientific research', 'space exploration', 'space travel', 'gmo', 'nongmo', 'nuclear energy', 'power plant']
+not_match 12:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 12:   ['science', 'spaceship', 'space exploration']
+label 12:      11
+topic 13:      infra_transpo
+keyword 13:    ['tourism', 'network', 'road', 'building', 'facilities', 'public transportation', 'transportation', 'construction', 'public services', 'bridges', 'sewage', 'tunnels', 'transit', 'park', 'bus station']
+not_match 13:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 13:   ['infrastructure']
+label 13:      12
+topic 14:      public_health
+keyword 14:    ['public health', 'unsafe', 'precaution', 'cautious', 'uncautious', 'careful', 'not careful', 'mask', 'social distancing', 'covid', 'cdc', 'public health', 'vaccines', 'vaccination', 'complex disease']
+not_match 14:  ['continue reading', 'follow us on', 'follow us in', 'follow on', 'on social media', 'donate now']
+required 14:   ['public health']
+label 14:      13
+Start topic training
+                          j Polarity  Coverage  Overlaps  Conflicts
+keyword_social_policy     0      [0]  0.008881  0.000807   0.000807
+keyword_occupation        1      [1]  0.018568  0.003229   0.003229
+keyword_economy           2      [2]  0.020721  0.004575   0.004575
+keyword_election          3      [3]  0.038751  0.004844   0.004844
+keyword_education         4      [4]  0.023950  0.001884   0.001884
+keyword_healthcare        5      [5]  0.016685  0.004306   0.004306
+keyword_security_policy   6      [6]  0.007804  0.002960   0.002960
+keyword_domestic_policy   7      [7]  0.010495  0.002691   0.002691
+keyword_foreign_policy    8      [8]  0.008073  0.001884   0.001884
+keyword_immigration       9      [9]  0.010495  0.004037   0.004037
+keyword_environment      10     [10]  0.006459  0.000269   0.000269
+keyword_science          11     [11]  0.000807  0.000000   0.000000
+keyword_infra_transpo    12     [12]  0.010495  0.001346   0.001346
+keyword_public_health    13     [13]  0.002422  0.000538   0.000538

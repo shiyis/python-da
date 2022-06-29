@@ -1,0 +1,15 @@
+Candidate: LIVENGOOD, MARLA
+Result:
+
+=====LINK SOURCE: http://marlalivengood.com/=====
+
+ <tag> span
+
+
+|
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://marlalivengood.com/'}

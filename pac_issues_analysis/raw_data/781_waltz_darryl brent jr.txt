@@ -1,0 +1,68 @@
+Candidate: WALTZ, DARRYL BRENT JR
+Result:
+
+=====LINK SOURCE: http://www.brentwaltz.com/=====
+
+ <tag> h1
+
+
+Error 1001
+
+ <tag> h2
+
+
+DNS resolution error
+
+What happened?
+
+ <tag> strong
+
+
+Most likely:
+
+646d7fcebb11f041
+
+Less likely:
+
+ <tag> p
+
+
+Cloudflare Ray ID: 646d7fcebb11f041 • Your IP: 96.230.240.116 • Performance & security by Cloudflare
+
+You've requested a page on a website (www.brentwaltz.com) that is on the Cloudflare network. Cloudflare is currently unable to resolve your requested domain (www.brentwaltz.com). There are two potential causes of this:
+
+ <tag> li
+
+
+Less likely: something is wrong with this site's configuration. Usually this happens when accounts have been signed up with a partner organization (e.g., a hosting provider) and the provider's DNS fails.
+
+Most likely: if the owner just signed up for Cloudflare it can take a few minutes for the website's information to be distributed to our global network.
+
+ <tag> span
+
+
+Error
+
+Performance & security by Cloudflare
+
+Your IP
+
+1001
+
+Ray ID: 646d7fcebb11f041 •
+
+•
+
+2021-04-28 04:20:38 UTC
+
+Cloudflare Ray ID: 646d7fcebb11f041
+
+Your IP: 96.230.240.116
+
+Performance & security by
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://www.brentwaltz.com/'}

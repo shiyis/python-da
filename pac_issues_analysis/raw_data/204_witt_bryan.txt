@@ -1,0 +1,26 @@
+Candidate: WITT, BRYAN
+Result:
+
+=====LINK SOURCE: https://secure.actblue.com/donate/bryan-witt-congressional-exploratory-committee-1=====
+
+ <tag> p
+
+
+If you have any questions, please contact us and we'll do our best to help.
+
+Contributions or gifts to ActBlue are not deductible as charitable contributions for Federal income tax purposes.
+
+You have attempted to make a contribution to a fundraising page that has no active recipients: either the page's owner has removed all committees or organizations from the page, or we have concluded processing contributions for these committees or organizations.
+
+Paid for by ActBlue (actblue.com) and not authorized by any candidate or candidate's committee.
+
+ <tag> span
+
+
+Paid for by ActBlue (actblue.com) and not authorized by any candidate or candidate's committee. Contributions or gifts to ActBlue are not deductible as charitable contributions for Federal income tax purposes.
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://secure.actblue.com/donate/bryan-witt-congressional-exploratory-committee-1'}

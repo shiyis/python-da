@@ -1,0 +1,64 @@
+Candidate: WAYMASTER, TROY
+Result:
+
+=====LINK SOURCE: https://troywaymaster.com/=====
+
+ <tag> h1
+
+
+CONSERVATIVE KANSAS VALUES.
+
+AMERICAN FARMER.
+
+ <tag> h2
+
+
+JOIN THE MOVEMENT
+
+GET TO KNOW TROY
+
+ <tag> h3
+
+
+★
+
+ <tag> p
+
+
+
+
+Troy Waymaster is a native Kansan and is proud to call Central and Western Kansas his home. He was born in Russell, Kansas and has lived in Russell County most of his life. He credits his determination and strong work ethic to his days spent working with his father and uncle on the family farm south of Bunker Hill where he continues to be active in the farming operation today. He has developed a strong sense of pride for and service to his community and country through the examples set by his grandfather in World War II and his father in Vietnam.
+
+© 2020 All Rights Reserved
+
+Paid for by Troy Waymaster for State Representative
+
+ <tag> li
+
+
+
+
+ABOUT
+
+Privacy Policy
+
+HOME
+
+ <tag> span
+
+
+
+
+HOME
+
+★
+
+Policy
+
+ABOUT
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://troywaymaster.com/privacy-policy/', 'https://troywaymaster.com/', 'https://troywaymaster.com/about/'}

@@ -1,0 +1,1174 @@
+Candidate: BULLOCK, BENJAMIN E.
+Result:a.com/=====
+
+ <tag> h1
+
+
+404
+
+ <tag> h2
+
+
+The site you were looking for couldn't be found.
+
+ <tag> p
+
+
+This domain is successfully pointed at WP Engine, but is not configured for an account on our platform.
+
+
+
+Hosted by
+
+ <tag> li
+
+
+Did you point DNS to the correct IP address or CNAME?
+
+If you just signed up, we're still likely creating your account.
+
+Did you add this domain to your install?
+
+
+=====LINK SOURCE: https://wpengine.com/support/wordpress-best-practice-configuring-dns-for-wp-engine/=====
+
+ <tag> h1
+
+
+Point DNS to WP Engine
+
+ <tag> h2
+
+
+Related Content
+
+WP Engine
+
+Point DNS Using CNAME Flattening
+
+DNS Record Values
+
+Point DNS Using an ANAME Record
+
+Insights
+
+Point DNS Using an A Record
+
+Resources
+
+Billing
+
+Point DNS Using an Alias Record
+
+Solutions
+
+About
+
+Sales
+
+Should I point DNS using an IP Address or CNAME record?
+
+The best in WordPress hosting.
+
+ <tag> h3
+
+
+
+
+Still need help? Contact support!
+
+ <tag> strong
+
+
+Once you have
+
+and
+
+NOTE
+
+root
+
+DNS
+
+Records
+
+Submit
+
+Add Record
+
+Call Sales
+
+Domains
+
+NEXT STEP: Learn how to add an SSL and secure all pages over HTTPS
+
+Value
+
+required
+
+Delete
+
+NOTE:
+
+Save
+
+DNS Details
+
+ANAME Records
+
+Target
+
+Alias
+
+Add a Site
+
+domain name
+
+Name
+
+apex
+
+IP address
+
+Continue
+
+CNAME Record
+
+DNSMadeEasy
+
+.
+
+A Record
+
+Add a period
+
+CNAME
+
+CNAME,
+
++
+
+DNSimple
+
+Domain
+
+Edit the A record
+
+Environment name
+
+all
+
+Type
+
+TTL
+
+ <tag> p
+
+
+
+
+See why more customers prefer WP Engine over the competition.
+
+View full DNS configuration instructions from DNSimple.
+
+NOTE: If your website lives on a subdomain, such as blog.domain.com or shop.mystore.com, adjusting both the root (non-www) and www records is not necessary. Only the subdomain record is required to point a subdomain.
+
+Alias records work the same as ANAME and CNAME records in the sense that your root domain can be pointed to a dynamic CNAME. You will configure your root domain using an alias record (which is typically denoted with a blank record name, rather than @), as well as the www or any subdomain records using a CNAME record.
+
+1-877-973-6446 sales@wpengine.com 7am–7pm CST
+
+The WP Engine CNAME value may vary depending one what type of network you are using: basic networking, advanced networking, or Global Edge Security.
+
+NOTE: Before changing your DNS records, complete the rest of the Going Live steps!
+
+Cloudflare is our recommendation for CNAME flattening, as it makes adding supplementary features through Cloudflare down the road far easier. The steps below will have you first configure your CNAME records in Cloudflare, then update your domain’s nameservers to point to Cloudflare from your domain name registrar.
+
+Last updated on March 12th, 2021
+
+NOTE: Updating the nameservers for your domain will affect all records associated with it, including email addresses. Cloudflare does its best to import existing records but be sure to work with your email host be sure you’ve copied over any extra DNS records into Cloudflare.
+
+Build faster, protect your brand, and grow business.
+
+Pointing your A record to your static WP Engine IP will work just fine, but you will need to update your DNS records if your website is ever migrated to a new server while your website hosted with us.
+
+The method you use to point your DNS is ultimately up to you and what your DNS host supports. The four DNS options we’ve detailed here will all successfully direct traffic to WP Engine. While our Support team is always happy to help clarify these options at any time, be aware that our agents cannot log in to your DNS host on your behalf. If you’re unable to configure DNS on your own, reach out to your DNS host with the record type you’d like to use and your WP Engine DNS record values.
+
+NEXT STEP: Learn how to add an SSL and secure all pages over HTTPS
+
+View full instructions from DNSMadeEasy.
+
+DNS domain SSL
+
+To properly configure DNS records you will first need the IP or CNAME value where your website is hosted.
+
+Cloudflare offers many extra services and options so be sure to configure them properly. Learn more about Cloudflare in our Best Practices guide.
+
+As a managed WordPress host, WP Engine may migrate your site to another server, either by request or in an emergency. While migrations are quite rare, it’s important to understand how this possibility may impact your peace of mind down the road and set yourself up for success. Because WP Engine is not a DNS host, if you site is migrated, the task of updating your DNS records will fall on you or your team. There are ways to prevent the need for DNS updates later on, however.
+
+That’s it! You can track propagation of your DNS changes on a site like this. Be advised, the nameservers and DNS settings may take some time to change over from here. This is largely dependent on your DNS host itself, so if you have concerns regarding propagation, reach out to the DNS provider where you purchased the domain and where you pointed the nameservers to Cloudflare.
+
+Some services allow your root domain to be configured using an ANAME record. This is very similar to an ALIAS or CNAME record, in the sense that it can point to a dynamic CNAME address. You will add an ANAME record for the root domain and a CNAME record for the www or any subdomains.
+
+Records configured in this way will look like the following:
+
+If you point the root domain to WP Engine servers in a flexible and non-static way, then instead of an IP you’ll use your WP Engine subdomain (EX: mycoolsite.wpengine.com). By doing this you won’t have to make DNS changes should your site migrate to another server with us because we control the address of that subdomain. The following methods are considered flexible in this way: CNAME, ANAME and Alias.
+
+LOG IN FOR ONE-ON-ONE HELP
+
+CNAME flattened records will look like the following:
+
+NOTE: If your website lives on a subdomain, such as blog.domain.com or shop.mystore.com, adjusting the root and WWW records are not necessary. Only the subdomain record is required to point a subdomain.
+
+Leave this page open for easy copying when pointing your DNS later on.
+
+In this example, we’re using DNSimple.
+
+billing@wpengine.com
+
+If the root domain is pointed with an A record, it will use a static IP address (EX: 123.456.78.90). Think of this IP address as the street address of your server. If your website moves to a new server, information can forward for a while, but there will very likely be deliverability issues until you update your IP address again at the DNS host.
+
+If your DNS Host is not included above, log in to your DNS host’s dashboard and locate the area to manage DNS records. Your existing records will look similar to this:
+
+NOTE: If your website lives on a subdomain, such as shop.mydomain.com, only the subdomain record is required to point a subdomain.
+
+There are several methods for pointing DNS to WP Engine. The preferred method is flattening DNS records because we find it be the most scalable solution. CNAME, ANAME, Alias and A record methods will all work to point DNS to WP Engine. Domain masking is not supported directly on WP Engine, however this configuration may still be setup from your DNS host.
+
+We offer support 24 hours a day, 7 days a week, 365 days a year. Log in to your account to get expert one-on-one help.
+
+SEE OUR PRODUCTS
+
+To understand how to point DNS, you’ll need to know the various types of records and why they’re significant to WP Engine websites.
+
+We’ve created separate guides for the most common DNS hosts:
+
+Once you retrieve the IP address value, log in to your DNS host. This is most often the Registrar where you purchased the domain. If you are not sure who your DNS host is, search for your domain on WHOIs.
+
+The last step to “go live” with your WP Engine managed WordPress website is to update your DNS. This will allow traffic to come from your domain to your WordPress website hosted on WP Engine. This process starts at your DNS manager, which is most often where you bought the domain.
+
+The non-www version of your domain (EX: domain.com) is also called apex or the root domain. This specific version of your domain is where the different configurations we describe below become relevant. The www domain (EX: www.domain.com) and any subdomains (EX: blog.domain.com) can always be pointed using a CNAME, so these records can be configured like you would with any other host.
+
+Several services offer CNAME flattening support, meaning your root domain (non-www) can be pointed with a CNAME record. Be aware that CNAME flattening is required for website’s hosted on clustered (AWS) server environments.
+
+In this example we’re using DNSMadeEasy.
+
+ <tag> li
+
+
+1&1
+
+Solution Center
+
+Newsroom
+
+If you are using Global Edge Security or advanced network, be sure to use the alternative IP address(es) here.
+
+Click Add Record to save
+
+If it points to a CNAME or IP address, make sure to edit them to the correct WP Engine DNS record value. If you are using Global Edge Security or advanced network, be sure to use the alternative IP address(es) here.
+
+Sign up for a Cloudflare plan (we’re using the free plan here)
+
+Enterprise
+
+Twitter
+
+This is used when pointing DNS with an A record.
+
+Velocitize
+
+You will end up with two records that look similar to this example:
+
+Agency Directory
+
+At your DNS host find the area to edit your nameservers. Often this is in the same area where you manage DNS records. You may need to select an option to set “custom nameservers”.
+
+Locate ANAME Records section
+
+Resource Center
+
+Point Bluehost DNS to WP Engine
+
+Log in to the User Portal
+
+Click Submit to save
+
+Click + again to add another ANAME record
+
+RSS
+
+Point NetRegistry DNS to WP Engine
+
+Click + to add a new ANAME record
+
+Amazon Route53
+
+EX: mysite.wpengine.com.
+
+Select your Domain
+
+Select Alias
+
+Now check the “www” record: If it points to @ then no further changes are needed. If it points to a CNAME or IP address, make sure to edit them to the correct WP Engine DNS record value. If you are using Global Edge Security or advanced network, be sure to use the alternative IP address(es) here.
+
+Enter www in the Name field
+
+Blog
+
+CNAME Record is your unique WP Engine CNAME, sometimes called the “temporary domain” This is used when configuring DNS with CNAME, ANAME, and Alias records.
+
+Click on the Environment name you wish to find the IP and CNAME for
+
+LinkedIn
+
+Point Namecheap DNS to WP Engine
+
+EX: yourdomain.com, it may also be denoted as @ and will be pointed to an IP address
+
+Click Domains
+
+Torque
+
+Delete any A records shown for your root domain EX: yourdomain.com, it may also be denoted as @ and will be pointed to an IP address
+
+Select CNAME
+
+Register.com (RCOM)
+
+Facebook
+
+Set the Value field to your WP Engine CNAME If you are using Global Edge Security or advanced network, be sure to use the alternative CNAME here.
+
+Click Records
+
+If it points to @ then no further changes are needed.
+
+NetRegistry
+
+Leave the Name field blank
+
+NameCheap
+
+Select your domain name
+
+Cloudflare will detect and display any existing records for your domain
+
+HostGator
+
+Instagram
+
+In the Target field enter your WP Engine CNAME If you are using Global Edge Security or advanced network, be sure to use the alternative CNAME here.
+
+Google Domains
+
+Select Domains from the left menu
+
+Godaddy
+
+Log in to DNSMadeEasy
+
+Enter your WP Engine CNAME in the field labelled Name If you are using Global Edge Security or advanced network, be sure to use the alternative CNAME here.
+
+Once you have changed the nameservers to those shown in the Cloudflare pane, be sure to save.
+
+Click Continue.
+
+Point DNS to a Clustered Server (AWS)
+
+Contact
+
+Point DreamHost DNS to WP Engine
+
+Leadership Team
+
+Set the Name to @
+
+Dreamhost
+
+Now look for www in the name column: If this record has @, your domain name, or the WP Engine domain in the Content column next to it, you can leave the record as-is. If this record has an IP address in the Content column next to it (EX: 123.456.78.90): Delete the www record Click Add Record Set the Type dropdown to CNAME In the Name field enter www In the Target field enter @ Click Save
+
+Choose your TTL (time in seconds for the change to take effect)
+
+Customer Stories
+
+Once on the Domains page, scroll down. Your DNS values can be located within the DNS Details section. A Record is your IP address This is used when pointing DNS with an A record. CNAME Record is your unique WP Engine CNAME, sometimes called the “temporary domain” This is used when configuring DNS with CNAME, ANAME, and Alias records.
+
+Our Platform
+
+Set the Type dropdown to CNAME
+
+YouTube
+
+Legal
+
+Privacy Policy
+
+Delete the www record
+
+Add a period to the end of the CNAME: EX: mysite.wpengine.com.
+
+Careers
+
+In the Name field enter www
+
+Edit the A record with the name @ and change the “Value” field to your WP Engine IP address. If you are using Global Edge Security or advanced network, be sure to use the alternative IP address(es) here.
+
+Agency
+
+Bluehost
+
+In the Target field enter @
+
+Click Add Record
+
+Marketer
+
+Support Center
+
+In the Type dropdown, select CNAME
+
+If you are using Global Edge Security or advanced network, be sure to use the alternative CNAME here.
+
+A Record is your IP address This is used when pointing DNS with an A record.
+
+Affiliate
+
+Brand Assets
+
+Partner Programs
+
+This is used when configuring DNS with CNAME, ANAME, and Alias records.
+
+Click Add a Site and enter the domain name
+
+If this record has @, your domain name, or the WP Engine domain in the Content column next to it, you can leave the record as-is.
+
+Click Add Record again to add a second record
+
+SMB
+
+Cloudflare will display two to four nameservers. These must all be copied exactly into your DNS registrar’s dashboard (where you bought the domain).
+
+System Status
+
+Set a TTL (time in seconds for the changes to take effect)
+
+Our Company
+
+If this record has an IP address in the Content column next to it (EX: 123.456.78.90): Delete the www record Click Add Record Set the Type dropdown to CNAME In the Name field enter www In the Target field enter @ Click Save
+
+Click DNS
+
+Click Save
+
+Log in to DNSimple
+
+Developer
+
+ <tag> span
+
+
+
+
+Point DNS Using CNAME Flattening
+
+Solution Center
+
+Point DNS Using an Alias Record
+
+Sales
+
+1.
+
+,
+
+Thought Leadership
+
+.ST76,.ST77{FILL:#FFF}.ST77{OPACITY:.6}
+
+2.
+
+.ST74{OPACITY:.7}.ST76{FILL:#FFF}
+
+.ST76{FILL:#FFF}
+
+3.
+
+Documentation
+
+Our Platform
+
+.ST1{FILL:NONE;STROKE:#FFF;STROKE-WIDTH:2;STROKE-LINECAP:SQUARE;STROKE-MITERLIMIT:10}
+
+Resource Center
+
+5.
+
+DNS Record Values
+
+Point DNS Using an ANAME Record
+
+Our Company
+
+Point DNS Using an A Record
+
+Call
+
+Careers
+
+Should I point DNS using an IP Address or CNAME record?
+
+Search for:
+
+6.
+
+4.
+
+
+=====LINK SOURCE: https://wpengine.com/support/find-ip/=====
+
+ <tag> h1
+
+
+Finding Your WP Engine IP Address
+
+ <tag> h2
+
+
+Related Content
+
+WP Engine
+
+Insights
+
+Resources
+
+Billing
+
+User Portal
+
+Solutions
+
+About
+
+Sales
+
+WP Engine Plugin
+
+The best in WordPress hosting.
+
+ <tag> h3
+
+
+
+
+Multisite
+
+Still need help? Contact support!
+
+Overview Page
+
+Domain Page
+
+ <tag> strong
+
+
+WP Engine
+
+A Record
+
+NOTE
+
+DNS Details
+
+Network Admin
+
+General Settings
+
+NEXT STEP: Point your DNS to WP Engine
+
+User Portal
+
+Call Sales
+
+Environment name
+
+Domains
+
+My Sites
+
+IP Address
+
+ <tag> p
+
+
+
+
+See why more customers prefer WP Engine over the competition.
+
+If you are working with a multisite network ,the WP Engine plugin will not work in the same way for each subsite as it would for a single site. You can find the IP using the WP Engine plugin in your WP admin dashboard through the Network Admin.
+
+You can find the IP if a WP Engine site in a few ways. Be aware, your websites may be on different servers, so you will want to locate the IP for each environment when pointing DNS.
+
+We offer support 24 hours a day, 7 days a week, 365 days a year. Log in to your account to get expert one-on-one help.
+
+SEE OUR PRODUCTS
+
+If your wp-admin bar says “My Sites” and you cannot see the WP Engine plugin, then you have a WordPress Multisite and must use these Multisite instructions instead.
+
+NEXT STEP: Point your DNS to WP Engine
+
+The User Portal is the most common location to find your website’s IP address when hosted on WP Engine. There are two locations where the IP can be found and copied, the Domain page and the Overview page.
+
+domain IP
+
+LOG IN FOR ONE-ON-ONE HELP
+
+1-877-973-6446 sales@wpengine.com 7am–7pm CST
+
+Last updated on January 6th, 2021
+
+Your website’s IP address can also be found through the WP admin dashboard of the website, by way of the WP Engine plugin.
+
+Your “IP” refers to the server address on which your managed WordPress site content is hosted. Your DNS needs to point to this IP for a domain to resolve to the correct WP Engine Site.
+
+billing@wpengine.com
+
+Build faster, protect your brand, and grow business.
+
+NOTE: Before pointing DNS, first add your domain to the User Portal.
+
+The Domain page within your User Portal is the best location to find your WP Engine IP address, as this page is used when adding your domain and will show the functional status of DNS once it has been pointed.
+
+The IP for a website can also be found on the more general “Overview” page within your User Portal. The Overview page is the first page to populate when selecting an environment name from the Sites page.
+
+ <tag> li
+
+
+The IP address will be on the line titled A Record
+
+Click on WP Engine plugin located in the top left corner
+
+Locate the section called DNS Details
+
+Under General Settings you will find your IP Address
+
+Solution Center
+
+Newsroom
+
+Marketer
+
+Blog
+
+Support Center
+
+Instagram
+
+LinkedIn
+
+Point Namecheap DNS to WP Engine
+
+Enterprise
+
+Twitter
+
+Affiliate
+
+Brand Assets
+
+Velocitize
+
+Partner Programs
+
+Click the My Sites tab
+
+Contact
+
+Torque
+
+Leadership Team
+
+Under General Settings you will find your IP address
+
+Locate the IP on the line titled IP Address
+
+Point DNS to WP Engine
+
+Agency Directory
+
+SMB
+
+Customer Stories
+
+Click on the unique Environment name you wish to find the IP address for
+
+WP Engine Hassle-Free Migration
+
+Facebook
+
+Our Platform
+
+System Status
+
+YouTube
+
+Resource Center
+
+Point Bluehost DNS to WP Engine
+
+Legal
+
+Privacy Policy
+
+Click WP Engine plugin located at the top left corner
+
+Our Company
+
+Log in to the User Portal
+
+Log in to your site’s /wp-admin/ dashboard
+
+Click Network Admin
+
+Select Domains
+
+Log in to your website’s /wp-admin/ dashboard
+
+Careers
+
+RSS
+
+Point NetRegistry DNS to WP Engine
+
+Agency
+
+Developer
+
+ <tag> span
+
+
+
+
+Solution Center
+
+Overview Page
+
+User Portal
+
+Sales
+
+1.
+
+WP Engine Plugin
+
+,
+
+Domain Page
+
+Multisite
+
+2.1.
+
+Thought Leadership
+
+1.1.
+
+.ST76,.ST77{FILL:#FFF}.ST77{OPACITY:.6}
+
+2.
+
+.ST74{OPACITY:.7}.ST76{FILL:#FFF}
+
+.ST76{FILL:#FFF}
+
+Documentation
+
+Our Platform
+
+.ST1{FILL:NONE;STROKE:#FFF;STROKE-WIDTH:2;STROKE-LINECAP:SQUARE;STROKE-MITERLIMIT:10}
+
+1.2.
+
+Resource Center
+
+Our Company
+
+Call
+
+Careers
+
+Search for:
+
+
+=====LINK SOURCE: https://wpengine.com/support/add-domain-in-user-portal/=====
+
+ <tag> h1
+
+
+Add Domain in User Portal
+
+ <tag> h2
+
+
+Related Content
+
+WP Engine
+
+Insights
+
+Resources
+
+Domain-level Redirect
+
+Billing
+
+Duplicate Domains
+
+Add Domain in User Portal
+
+Solutions
+
+The best in WordPress hosting.
+
+About
+
+Sales
+
+Primary Domain
+
+ <tag> h3
+
+
+
+
+Still need help? Contact support!
+
+ <tag> strong
+
+
+
+
+Edit Redirect
+
+without “www
+
+NOTE
+
+Domain Connect Options
+
+Add Domain
+
+User Portal
+
+Set Domain-level Redirect(s)
+
+Call Sales
+
+Domains
+
+Save Changes
+
+Set as Primary
+
+Enter
+
+subdomain
+
+with
+
+environment name
+
+Add Redirect
+
+domain
+
+one
+
+www
+
+Redirect to
+
+3 dot menu icon
+
+Next
+
+Edit/Remove Domain-level Redirect
+
+To edit or remove an existing domain-level redirect:
+
+3 dot menu
+
+–No Redirect–
+
+NEXT STEP: Update your website’s URL in WordPress
+
+Save changes
+
+Set Primary Domain
+
+ <tag> p
+
+
+
+
+See why more customers prefer WP Engine over the competition.
+
+A Primary domain cannot be a subdirectory (EX: domain.com/blog). For more information, review this guide.
+
+Domain Connect Options
+
+NOTE: Shared hosting plans– Custom domains can only be added to your Production environment. Custom domains cannot be added to Staging, Development, Legacy Staging or Transferrable sites. Dedicated hosting plans– Custom domains can be added to Production, Staging and Development environments as-needed. Learn more about environments.
+
+Finally, contact WP Engine Support and we will help verify ownership of the domain and add it to your User Portal.
+
+Set Domain-level Redirect(s)
+
+1-877-973-6446 sales@wpengine.com 7am–7pm CST
+
+NOTE: If you receive the error “Domain name has already been taken”, check out the Duplicate Domain section below.
+
+A new domain must be added to the WP Engine User Portal in order to properly route the domain to the intended WordPress website.
+
+Build faster, protect your brand, and grow business.
+
+Domain name is already configured as a domain on the install “xyz”. Please choose a unique name.
+
+If you cannot locate the domain name on your account, you will need to verify ownership of the domain so we can move it. Log in to your DNS host and add the following TXT record:
+
+If you encounter one of these errors, please remove the domain from other Environments before attempting to add it to this one. You can use the search bar at the top of the User Portal to search for the domain across all of your accounts.
+
+The Primary Domain can only be one of the following types of domains:
+
+If your DNS provider does not support Domain Connect, you will be provided the manual DNS connection information here instead.
+
+At this point a new page will load and your domain has been added to the User Portal. You can exit the process now if you wish, or continue following the prompts if you’re ready to finish going live with the domain.
+
+Adding a domain in the User Portal should be done when you are ready to go live with your WordPress website and should be done before modifying DNS records. This process is necessary to ensure that after DNS is pointed, your traffic can be routed to the correct environment.
+
+It will also ensure any 301/302 redirects configured in the User Portal for a domain will function for all domains redirected to it, now and in the future.
+
+Last updated on December 14th, 2020
+
+wpe-verification=yourenvironmentname
+
+A domain-level redirect is useful because it tells the entire server to immediately send requests to one domain to another.
+
+LOG IN FOR ONE-ON-ONE HELP
+
+If our system detects your domain register supports Domain Connect, you will see the name of your registrar listed on the page after adding your domain to the User Portal. Domain connect will then request you log in to your registrar so we can point DNS on your behalf. Learn more about Domain Connect in the extended guide.
+
+billing@wpengine.com
+
+Incorrectly setting your domain-level redirects can cause a redirect loop. Additionally, if you’re attempting to set a 301/302 redirect from the User Portal and cannot select the desired domain from the dropdown, there is like a conflicting domain-level redirect set.
+
+domain legacy UserPortal
+
+Or
+
+You may find that redirecting at the domain level impedes some other more custom redirect you’d like to do on one of your domains. In this case the domain-level redirect would need to be removed or modified.
+
+Edit/Remove Domain-level Redirect
+
+To edit or remove an existing domain-level redirect:
+
+A custom domain can only be applied to one environment at a time. The same domain cannot be added to multiple environments across any WP Engine accounts. You will see either of the following errors if you try to add a domain that is already associated with another Environment.
+
+We offer support 24 hours a day, 7 days a week, 365 days a year. Log in to your account to get expert one-on-one help.
+
+SEE OUR PRODUCTS
+
+Your website can ultimately only resolve to only one domain in the browser, we call this the Primary Domain. The Primary Domain can impact 301/302 redirects as well as the copy environment process, so it’s important to set this correctly when going live.
+
+Domain name has already been taken
+
+NEXT STEP: Update your website’s URL in WordPress
+
+For example, if your primary domain is mydomain.com then requests to www.mydomain.com should immediately forward. Doing this as a domain-level redirect in the User Portal will ensure the redirect can be performed as quickly as possible.
+
+Be sure to replace yourenvironmentname above record with the specific name of the environment you’d like the domain added to, or we will not be able to verify the record. For example: If your environment is mycoolsite.wpengine.com the record would be wpe-verification=mycoolsite.
+
+Set Primary Domain
+
+ <tag> li
+
+
+Select the Production environment name from the list
+
+Locate the domain you wish to redirect
+
+Solution Center
+
+Newsroom
+
+Marketer
+
+Click the dropdown for Redirect to
+
+Blog
+
+Support Center
+
+Instagram
+
+Click Set as Primary
+
+LinkedIn
+
+I’ve purchased this domain. If you have already purchased the domain name.
+
+Enterprise
+
+Twitter
+
+Click Add Domain
+
+Click Edit Redirect
+
+Affiliate
+
+From the dropdown, select the domain you’d like to Redirect to The dropdown will default to your Primary Domain
+
+Brand Assets
+
+Go Live on a Domain with WP Engine
+
+Click on the production environment name
+
+Velocitize
+
+Partner Programs
+
+Contact
+
+Click Domains
+
+Click Save Changes
+
+Torque
+
+Next to a domain, click the 3 dot menu icon
+
+Leadership Team
+
+Agency Directory
+
+SMB
+
+Customer Stories
+
+I haven’t purchased this domain. If you haven’t purchased the domain and wish to see registrar recommendations.
+
+A domain with “www“. EX: www.mydomain.com
+
+Reset User Portal Login
+
+Select Add Redirect
+
+A domain without “www“. EX: mydomain.com
+
+Facebook
+
+Click Next
+
+Click the 3 dot menu next to the domain
+
+Our Platform
+
+System Status
+
+YouTube
+
+The dropdown will default to your Primary Domain
+
+Resource Center
+
+Legal
+
+Privacy Policy
+
+Select –No Redirect– or an alternate domain option
+
+Our Company
+
+Log in to the User Portal
+
+Enter your domain
+
+A subdomain. EX: blog.mydomain.com
+
+Careers
+
+User Portal Overview
+
+Select either: I’ve purchased this domain. If you have already purchased the domain name. I haven’t purchased this domain. If you haven’t purchased the domain and wish to see registrar recommendations.
+
+RSS
+
+Save changes
+
+Domain DNS Status
+
+Agency
+
+Click the 3 dot menu icon to the right
+
+Domain Connect and Automatic DNS Setup
+
+Developer
+
+ <tag> span
+
+
+
+
+Solution Center
+
+Add Domain in User Portal
+
+Sales
+
+1.
+
+,
+
+Thought Leadership
+
+.ST76,.ST77{FILL:#FFF}.ST77{OPACITY:.6}
+
+2.
+
+.ST74{OPACITY:.7}.ST76{FILL:#FFF}
+
+.ST76{FILL:#FFF}
+
+Duplicate Domains
+
+3.
+
+Documentation
+
+Our Platform
+
+.ST1{FILL:NONE;STROKE:#FFF;STROKE-WIDTH:2;STROKE-LINECAP:SQUARE;STROKE-MITERLIMIT:10}
+
+Primary Domain
+
+Resource Center
+
+Our Company
+
+Domain-level Redirect
+
+Call
+
+Careers
+
+Search for:
+
+4.
+
+
+Number of links (dup removed)4
+
+All links:
+{'https://wpengine.com/support/add-domain-in-user-portal/', 'https://wpengine.com/support/find-ip/', 'https://wpengine.com/support/wordpress-best-practice-configuring-dns-for-wp-engine/', 'https://bullockforga.com/'}

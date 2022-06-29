@@ -1,0 +1,61 @@
+Candidate: MCCORMICK, RICHARD DEAN DR.
+Result:
+
+=====LINK SOURCE: https://www.richmccormick.us/=====
+
+ <tag> h1
+
+
+
+
+COMMUNITIES ENGAGED
+
+EMERGENCY ROOM DOCTOR
+
+HEALTHCARE REFORMED
+
+DECORATED MARINE PILOT
+
+ <tag> h2
+
+
+
+
+Seventh District Women Back Rich McCormick
+
+ <tag> h3
+
+
+DONATE ONLINE TODAY
+
+ <tag> p
+
+
+Dr. Rich McCormick is a decorated marine veteran and a practiced physician that has spent his lifetime on the frontlines keeping our families safe and will continue to do so in Washington, D.C.
+
+ <tag> li
+
+
+
+
+Coalitions
+
+Priorities
+
+News
+
+About
+
+Gear
+
+Press
+
+Donate
+
+Volunteer
+
+
+Number of links (dup removed)10
+
+All links:
+{'https://www.richmccormick.us/priorities/', 'https://www.richmccormick.us/press/', 'https://www.richmccormick.us/volunteer/', 'https://www.richmccormick.us/', 'https://www.richmccormick.us/coalitions/', 'https://www.richmccormick.us/about/', 'https://www.richmccormick.us/news/', 'https://friends-of-mccormick.revv.co/storefront/', 'about:blank', 'https://secure.anedot.com/friends-of-mccormick/donate?utm_medium=website&utm_source=srg&utm_campaign=homepage'}

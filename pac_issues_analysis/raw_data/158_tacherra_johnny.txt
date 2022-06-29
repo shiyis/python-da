@@ -1,0 +1,31 @@
+Candidate: TACHERRA, JOHNNY
+Result:
+
+=====LINK SOURCE: http://www.tacherraforcongress.com/=====
+
+ <tag> strong
+
+
+
+
+http://www.tacherraforcongress.com/
+
+ <tag> p
+
+
+
+
+No webpage was found for the web address: http://www.tacherraforcongress.com/
+
+ <tag> span
+
+
+This www.tacherraforcongress.com page can’t be found
+
+www.tacherraforcongress.com
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://www.tacherraforcongress.com/'}

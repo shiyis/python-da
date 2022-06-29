@@ -1,0 +1,68 @@
+Candidate: CLYDE, ANDREW
+Result:
+
+=====LINK SOURCE: https://www.clyde4congress.com/=====
+
+ <tag> h3
+
+
+Standing Up to
+
+Big Government
+
+ <tag> p
+
+
+
+
+Donate
+
+Paid for by Clyde for Congress, Inc.
+
+Issues
+
+About
+
+Contact
+
+Home
+
+Volunteer
+
+ <tag> li
+
+
+
+
+Donate
+
+Issues
+
+About
+
+Contact
+
+Home
+
+Volunteer
+
+ <tag> span
+
+
+
+
+Standing Up to
+
+Paid for by Clyde for Congress, Inc.
+
+Submit
+
+Contact
+
+Big Government
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://secure.anedot.com/andrew-clyde-for-congress/donate', 'https://www.clyde4congress.com/', 'https://www.clyde4congress.com/volunteer'}

@@ -1,0 +1,15 @@
+Candidate: STRICKLAND, MARIA D.
+Result:
+
+=====LINK SOURCE: http://strickland4congress.com/cgi-sys/suspendedpage.cgi=====
+
+ <tag> span
+
+
+Account Suspended
+
+
+Number of links (dup removed)2
+
+All links:
+{'http://strickland4congress.com/cgi-sys/suspendedpage.cgi', 'about:blank'}

@@ -1,0 +1,10 @@
+Candidate: D'ALESSANDRO, PETE
+Result:
+
+=====LINK SOURCE: https://www.peteforiowa.com/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.peteforiowa.com/'}

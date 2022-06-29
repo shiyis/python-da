@@ -1,0 +1,110 @@
+Candidate: PRUDEN, JAMES L.
+Result:
+
+=====LINK SOURCE: https://www.jimprudenforcongress.com/=====
+
+ <tag> h1
+
+
+Countdown to
+
+Election Day!
+
+JIM PRUDEN
+
+ <tag> h2
+
+
+Jim Pruden for Congress
+
+ <tag> h5
+
+
+NEWS
+
+Jim's Videos
+
+ <tag> p
+
+
+HOME
+
+
+
+GALLERY
+
+PLATFORM
+
+More
+
+DISTRICT MAP
+
+Paid for by Jim Pruden for Congress
+
+CONTACT
+
+MEET JIM
+
+ <tag> li
+
+
+HOME
+
+
+
+GALLERY
+
+PLATFORM
+
+More
+
+DISTRICT MAP
+
+CONTACT
+
+MEET JIM
+
+ <tag> span
+
+
+
+
+FROM THE
+
+FROM
+
+for CONGRESS
+
+Florida's 22nd District
+
+Countdown to
+
+Voter Registration
+
+JIM PRUDEN
+
+NEWS
+
+Paid for by Jim Pruden for Congress
+
+DONATE
+
+Jim's Videos
+
+$ Donate
+
+Keep America Free
+
+Play Video
+
+RSVP
+
+Election Day!
+
+Volunteer
+
+
+Number of links (dup removed)6
+
+All links:
+{'https://www.jimprudenforcongress.com/gallery', 'https://www.jimprudenforcongress.com/meet-jim', 'https://www.jimprudenforcongress.com/platform', 'https://www.jimprudenforcongress.com/', 'https://www.jimprudenforcongress.com/get-involved', 'https://www.jimprudenforcongress.com/district-22'}

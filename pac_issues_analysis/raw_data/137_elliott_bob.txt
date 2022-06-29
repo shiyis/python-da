@@ -1,0 +1,27 @@
+Candidate: ELLIOTT, BOB
+Result:
+
+=====LINK SOURCE: https://bobelliottforcongress.com/=====
+
+ <tag> h2
+
+
+Error 404
+
+ <tag> p
+
+
+If you think this is a server error, please contact the webmaster.
+
+The requested URL was not found on this server. If you entered the URL manually please check your spelling and try again.
+
+ <tag> span
+
+
+Apache/2.4.38 (Unix) OpenSSL/1.0.2q PHP/5.6.40 mod_perl/2.0.8-dev Perl/v5.16.3
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://bobelliottforcongress.com/'}

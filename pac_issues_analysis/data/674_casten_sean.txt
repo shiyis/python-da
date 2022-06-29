@@ -1,0 +1,85 @@
+Candidate: CASTEN, SEAN
+Result:
+
+=====LINK SOURCE: https://castenforcongress.com/=====
+
+ <tag> h1
+
+
+Sean Casten to niezależny głos w obronie naszych wartości w Waszyngtonie.
+
+
+
+Przekaż darowiznę na kampanię Seana
+
+ <tag> h2
+
+
+Sean Casten jest szanowanym naukowcem, przedsiębiorcą zajmującym się czystą energią i autorem - a także oddanym mężem i ojcem mieszkającym w Downers Grove.
+
+ <tag> p
+
+
+Sean Casten reprezentuje 6. Dystrykt Kongresowy Illinois, położony na zachodnich przedmieściach Chicago. Jest studentem pierwszego roku 116. Kongresu i jest pierwszym Demokratą, który reprezentuje 6. Dystrykt od prawie 50 lat.
+
+* Jeśli zapisałeś swoje dane w ActBlue Express, Twoja darowizna zostanie przekazana natychmiast.
+
+Waszyngton nie pracuje dla naszych rodzin z prostego powodu: fakty zajmują tylną pozycję w polityce, gdy informują o niej. To po prostu nie tak. Sean wie, że fakty mają znaczenie, a ignorowanie faktów to pewny sposób na zranienie ludzi. Jego podejście do każdego problemu oparte na faktach jest oparte na danych, wkładzie ekspertów i rzeczywistości, z którą mamy do czynienia.
+
+ <tag> li
+
+
+
+
+500 $
+
+Polish
+
+Głosować
+
+SKONTAKTUJ SIĘ Z NAMI
+
+25 $
+
+Problemy
+
+WOLONTARIUSZ
+
+100 $
+
+Spanish
+
+English
+
+5 USD
+
+10 USD
+
+O Seanie
+
+... lub chip w innej kwocie
+
+POLITYKA PRYWATNOŚCI
+
+Bank telefoniczny
+
+ <tag> span
+
+
+
+
+Polish
+
+Spanish
+
+© 2021 Casten for Congress; Adres do korespondencji: PO Box 132 Downers Grove, IL 60515-0132
+
+English
+
+Opłacone przez Casten dla Kongresu
+
+
+Number of links (dup removed)8
+
+All links:
+{'https://castenforcongress.com/about/', 'https://www.mobilize.us/castenforcongress/event/335853/', 'https://castenforcongress.com/privacy-policy/', 'https://castenforcongress.com/', 'https://castenforcongress.com/voter-information/', 'https://castenforcongress.com/sign-up/', 'https://castenforcongress.com/issues/', 'https://castenforcongress.com/contact/'}

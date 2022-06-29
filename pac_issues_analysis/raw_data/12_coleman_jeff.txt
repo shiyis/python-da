@@ -1,0 +1,26 @@
+Candidate: COLEMAN, JEFF
+Result:
+
+=====LINK SOURCE: https://jeffcolemanal.com/=====
+
+ <tag> p
+
+
+Check if there is a typo in jeffcolemanal.com.
+
+
+
+ <tag> span
+
+
+
+
+jeffcolemanal.com
+
+This site can’t be reached
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://jeffcolemanal.com/'}

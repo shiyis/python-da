@@ -1,0 +1,10 @@
+Candidate: RODKIN ROTERING, NANCY
+Result:
+
+=====LINK SOURCE: https://www.friendsofnancy.com/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.friendsofnancy.com/'}

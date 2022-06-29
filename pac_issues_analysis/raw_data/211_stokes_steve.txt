@@ -1,0 +1,26 @@
+Candidate: STOKES, STEVE
+Result:
+
+=====LINK SOURCE: http://www.stokes4senate.com/=====
+
+ <tag> p
+
+
+
+
+Check if there is a typo in www.stokes4senate.com.
+
+ <tag> span
+
+
+This site can’t be reached
+
+
+
+www.stokes4senate.com
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://www.stokes4senate.com/'}

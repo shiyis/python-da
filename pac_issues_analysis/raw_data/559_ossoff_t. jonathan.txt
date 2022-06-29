@@ -1,0 +1,109 @@
+Candidate: OSSOFF, T. JONATHAN
+Result:
+
+=====LINK SOURCE: https://electjon.com/=====
+
+ <tag> h2
+
+
+Volunteer Today
+
+P.O. Box 450326, Atlanta, GA 31145 info@electjon.com
+
+SIGN UP
+
+News and Press
+
+Why I’m Running
+
+The Latest
+
+Chip in today to elect Jon Ossoff
+
+Powered by Apollo
+
+Volunteer
+
+ <tag> h3
+
+
+
+
+Atlanta Voice: Ossoff campaign launches dynamic campaign mobilizer program in final week of runoff
+
+Ossoff Campaign Election Night Statement
+
+ <tag> p
+
+
+Get the latest updates from the campaign trail by following Jon Ossoff for U.S. Senate on Facebook and Twitter or visit our action center for more!
+
+Jon is running to defeat U.S. Senator David Perdue, one of Donald Trump’s closest personal allies, and we need your help to fight an onslaught of attacks from Trump’s donors and special interest Super PACs.
+
+On Wednesday, December 30th, Jon Ossoff held a campaign …
+
+Atlanta, Ga. —Tonight, Jon Ossoff’s campaign manager Ellen Foster released the following statement: “When all the …
+
+ <tag> li
+
+
+
+
+Media Inquiry
+
+Campaign Update
+
+Contact
+
+Privacy Policy
+
+Donate
+
+ <tag> span
+
+
+
+
+ACTION CENTER
+
+LEARN MORE
+
+Media Inquiry
+
+JANUARY 1, 2021
+
+$500
+
+PRESS RELEASE
+
+$25
+
+Campaign Update
+
+$100
+
+VOLUNTEER
+
+$5
+
+NEWS
+
+Contact
+
+$50
+
+other amount
+
+WATCH VIDEO
+
+Privacy Policy
+
+Donate
+
+JANUARY 6, 2021
+
+
+Number of links (dup removed)6
+
+All links:
+{'https://go.electjon.com/page/s/contact-media', 'https://electjon.com/', 'https://go.electjon.com/page/s/contact-us?source=MS_HP_INFO_2019.09.10_X_contact_X__X__x', 'https://electjon.com/campaign-update/', 'https://secure.actblue.com/donate/ms_hp_ossoff?refcode=MS_HP_FR_2019.09.10_X_homepage_X__X__X&amount=25&amounts=15%2C25%2C50%2C100%2C250%2C500%2C1000%2C2800', 'https://electjon.com/privacy-policy/'}

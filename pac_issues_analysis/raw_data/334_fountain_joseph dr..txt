@@ -1,0 +1,26 @@
+Candidate: FOUNTAIN, JOSEPH DR.
+Result:
+
+=====LINK SOURCE: https://www.fountainforcongress.com/=====
+
+ <tag> p
+
+
+
+
+Check if there is a typo in www.fountainforcongress.com.
+
+ <tag> span
+
+
+
+
+This site can’t be reached
+
+www.fountainforcongress.com
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.fountainforcongress.com/'}

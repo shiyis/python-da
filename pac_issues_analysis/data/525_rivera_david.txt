@@ -1,0 +1,34 @@
+Candidate: RIVERA, DAVID
+Result:
+
+=====LINK SOURCE: http://www.davidrivera.org/issues.html=====
+
+ <tag> li
+
+
+Contact Lens
+
+music videos
+
+find a tutor
+
+All Inclusive Vacation Packages
+
+fashion trends
+
+Related Searches:
+
+Best Penny Stocks
+
+Credit Card Application
+
+ <tag> span
+
+
+Related Searches:
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://www.davidrivera.org/issues.html'}

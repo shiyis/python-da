@@ -1,0 +1,10 @@
+Candidate: HARMON, WAYNE EDWARD
+Result:
+
+=====LINK SOURCE: http://www.weharmon.com/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://www.weharmon.com/'}

@@ -1,0 +1,56 @@
+Candidate: WELLS, WILLIAM DANIEL
+Result:
+
+=====LINK SOURCE: https://www.danielrosenthal.nyc/=====
+
+
+=====LINK SOURCE: https://www.danielrosenthal.nyc/contact-us=====
+
+ <tag> span
+
+
+
+
+Last Name
+
+Current Page:
+
+First Name
+
+*
+
+
+=====LINK SOURCE: https://www.danielrosenthal.nyc/volunteer=====
+
+ <tag> span
+
+
+
+
+Current Page:
+
+
+=====LINK SOURCE: https://www.danielrosenthal.nyc/priorities=====
+
+ <tag> span
+
+
+
+
+Current Page:
+
+
+=====LINK SOURCE: https://www.danielrosenthal.nyc/about=====
+
+ <tag> span
+
+
+
+
+Current Page:
+
+
+Number of links (dup removed)5
+
+All links:
+{'https://www.danielrosenthal.nyc/about', 'https://www.danielrosenthal.nyc/volunteer', 'https://www.danielrosenthal.nyc/', 'https://www.danielrosenthal.nyc/priorities', 'https://www.danielrosenthal.nyc/contact-us'}

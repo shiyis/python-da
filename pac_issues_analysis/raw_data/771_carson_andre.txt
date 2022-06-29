@@ -1,0 +1,77 @@
+Candidate: CARSON, ANDRE
+Result:
+
+=====LINK SOURCE: http://andrecarson.com/#contact=====
+
+ <tag> h2
+
+
+Contact Us
+
+About André
+
+ <tag> h3
+
+
+Dedicated Service. Honest Leadership. Common Sense Solutions.
+
+ <tag> h4
+
+
+Get Involved and Join Carson’s Team!
+
+ <tag> strong
+
+
+growing the economy, strengthening national security and building a stronger Middle Class
+
+ <tag> p
+
+
+
+
+Congressman André Carson has dedicated his career to public service as an advocate for Hoosier families. Since being elected to serve the 7th Congressional District in 2008, he has focused on growing the economy, strengthening national security and building a stronger Middle Class.
+
+André is also a rising member of House leadership. During the 115th Congress, André serves as a Senior Whip for the House Democratic Caucus, sits on the powerful Democratic Steering and Policy Committee, and is a member of the Congressional Black Caucus’ Executive Leadership Team. These high profile positions have allowed him to fight for Indiana’s 7th Congressional District at the highest levels of congressional leadership.
+
+© 2017 André Carson for Congress. All Rights Reserved. Site design by AMG Designs.
+
+André also serves on the Transportation and Infrastructure Committee, where he recently worked to pass the first long-term highway bill in over decade, helping to get Hoosiers back to work by rebuilding our roads, bridges and rail lines.
+
+Before taking office, André served on the Indianapolis City-County Council and worked full-time in law enforcement. André is the proud parent of a ten-year-old old daughter, Salimah, and lives in Center Township.
+
+P.O. Box 1863 | Indianapolis, Indiana 46206 | (317) 226-9400 | campaign@andrecarson.com
+
+As the top Democrat on the Emerging Threats Subcommittee on the House Permanent Select Committee on Intelligence, André plays a vital role in ensuring the United States has the tools and resources needed to identify, track and defeat dangerous threats. This is a fitting role given André’s past experience working with the Indiana Department of Homeland Security.
+
+As one of two Muslims serving in Congress, André is a champion for vulnerable populations and is committed to ensuring everyone is protected equally under the law. André has long been involved in the fight to achieve gender fairness, religious freedom, and marriage equality.
+
+Born in Indianapolis, André grew up in a family that taught him the importance of hard work, caring for others and public service. André is a graduate of Arsenal Tech High School, and holds a Bachelor’s degree in Criminal Justice Management from Concordia University-Wisconsin along with a Master’s in Business Management from Indiana Wesleyan University.
+
+ <tag> li
+
+
+
+
+ABOUT ANDRÉ
+
+REGISTER TO VOTE
+
+DONATE
+
+CONTACT US
+
+ <tag> span
+
+
+
+
+REGISTER TO VOTE
+
+DONATE
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://secure.ngpvan.com/ZFgQB1NB_027aRtM8Xj6LQ2', 'https://indianavoters.in.gov/', 'http://andrecarson.com/#contact'}

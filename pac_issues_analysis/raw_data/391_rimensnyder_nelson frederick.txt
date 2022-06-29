@@ -1,0 +1,48 @@
+Candidate: RIMENSNYDER, NELSON FREDERICK
+Result:
+
+=====LINK SOURCE: http://www.lewfrederick.org/=====
+
+ <tag> h2
+
+
+Main Navigation
+
+Representing Oregon Senate District 22 - North and Northeast Portland
+
+ <tag> h4
+
+
+Follow Lew
+
+About Lew
+
+Join Lew
+
+ <tag> p
+
+
+
+
+Representing North and Northeast Portland in the Oregon Legislature
+
+Lew is working to improve Oregonians' educational opportunities, health, safety and economic prospects while protecting our state's natural heritage for generations to come. Join him in building a better Oregon.
+
+Lew Frederick represents North and Northeast Portland and is working to make Oregon a better place for everyone in the state. Learn more about his background.
+
+Check the calendar to see upcoming events, let us know if you'd like to volunteer with Lew or contact Lew with questions or concerns.
+
+ <tag> span
+
+
+
+
+MENU
+
+© 2021
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://www.lewfrederick.org/'}

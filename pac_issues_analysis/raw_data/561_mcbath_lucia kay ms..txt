@@ -1,0 +1,24 @@
+Candidate: MCBATH, LUCIA KAY MS.
+Result:
+
+=====LINK SOURCE: https://lucyforcongress.com/home/=====
+
+ <tag> p
+
+
+
+
+Paid for by Friends of Lucy McBath 885 Woodstock Rd Suite 430-528 Roswell, GA 30075
+
+ <tag> span
+
+
+
+
+For press inquiries: jake@lucyforcongress.com
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://lucyforcongress.com/home/#!', 'about:blank', 'https://lucyforcongress.com/home/'}

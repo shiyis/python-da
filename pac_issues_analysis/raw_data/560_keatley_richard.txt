@@ -1,0 +1,20 @@
+Candidate: KEATLEY, RICHARD
+Result:
+
+=====LINK SOURCE: https://www.keatleyforchange.org/=====
+
+ <tag> h1
+
+
+Forbidden
+
+ <tag> p
+
+
+You don't have permission to access / on this server.
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.keatleyforchange.org/'}

@@ -1,0 +1,38 @@
+Candidate: LEIBSOHN, SETH MR.
+Result:
+
+=====LINK SOURCE: https://seth4congress.com/=====
+
+ <tag> strong
+
+
+
+
+seth4congress.com
+
+ <tag> p
+
+
+
+
+Try:
+
+seth4congress.com refused to connect.
+
+ <tag> li
+
+
+Checking the connection
+
+Checking the proxy and the firewall
+
+ <tag> span
+
+
+This site can’t be reached
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://seth4congress.com/'}

@@ -1,0 +1,99 @@
+Candidate: FAZENBAKER, TIMOTHY
+Result:
+
+=====LINK SOURCE: https://timfazenbaker.com/=====
+
+ <tag> h1
+
+
+Fighting For Free & Fair Elections! Fighting To Put America First!
+
+ <tag> h2
+
+
+TIM FAZENBAKER BIOGRAPHY
+
+TIM FAZENBAKER ON AMERICA’S VOICE
+
+TIM FAZENBAKER REOPEN MARYLAND ON OAN
+
+TIM FAZENBAKER ON OAN
+
+AMERICAN KIDS FIRST COMMERCIAL
+
+VETS FOR TRUMP ENDORSEMENT
+
+CONNECT WITH US
+
+ <tag> h3
+
+
+Enter email to join the AMERICA First team
+
+ <tag> strong
+
+
+"The swamp and establishment are stealing from our American kids when they choose illegals over Americans"
+
+ <tag> p
+
+
+UNITED STATES OF AMERICA
+
+
+
+"The swamp and establishment are stealing from our American kids when they choose illegals over Americans"
+
+TIM FAZENBAKER
+
+ <tag> li
+
+
+
+
+About
+
+Donate
+
+We Back Blue - Bike Ride
+
+Blog
+
+News
+
+Contact Us
+
+COPYRIGHT © 2020 TIM FAZENBAKER - ALL RIGHTS RESERVED. CITIZENS FOR TIM FAZENBAKER
+
+Home
+
+Save Our Children Walk
+
+ <tag> span
+
+
+
+
+TIM FAZENBAKER BIOGRAPHY
+
+"The swamp and establishment are stealing from our American kids when they choose illegals over Americans"
+
+TIM FAZENBAKER ON AMERICA’S VOICE
+
+TIM FAZENBAKER REOPEN MARYLAND ON OAN
+
+TIM FAZENBAKER ON OAN
+
+AMERICAN KIDS FIRST COMMERCIAL
+
+Enter email to join the AMERICA First team SIGN UP
+
+VETS FOR TRUMP ENDORSEMENT
+
+CONNECT WITH US
+
+
+Number of links (dup removed)7
+
+All links:
+{'https://timfazenbaker.com/blog', 'https://timfazenbaker.com/', 'https://timfazenbaker.com/donate', 'https://timfazenbaker.com/save-our-children-walk', 'https://timfazenbaker.com/about', 'https://timfazenbaker.com/news', 'https://timfazenbaker.com/contact-us-1'}

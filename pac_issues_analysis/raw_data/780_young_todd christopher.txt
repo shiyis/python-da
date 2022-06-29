@@ -1,0 +1,72 @@
+Candidate: YOUNG, TODD CHRISTOPHER
+Result:
+
+=====LINK SOURCE: https://www.toddyoung.org/=====
+
+ <tag> h1
+
+
+A Marine Fighting for Hoosier Families
+
+ <tag> h2
+
+
+
+
+About Todd
+
+ <tag> h5
+
+
+
+
+SIGN UP TO GET THE LATEST UPDATES
+
+ <tag> p
+
+
+
+
+But now, Joe Biden and the Democrats are tearing down what we worked to build. Winning back the Senate Majority in 2022 is critical to the future of our America First agenda.
+
+Growing up in Indiana, Todd worked hard in the classroom, in sports, and he even mopped floors at the family business after school. His hard work led to an appointment to the U.S. Naval Academy, where he graduated with honors.
+
+I'M IN! LET'S WIN BACK THE SENATE MAJORITY!
+
+I am so proud of everything Republicans have accomplished in the past four years under President Trump. We passed meaningful tax cuts, confirmed three Supreme Court Justices, including Hoosier Amy Coney Barrett, and worked to secure our borders and defund sanctuary cities.
+
+So today, I’m announcing my re-election campaign, and I’m asking for your support:
+
+ <tag> li
+
+
+
+
+TODD'S TROOPS
+
+VOLUNTEER
+
+NEWS
+
+ABOUT
+
+ <tag> span
+
+
+
+
+But now, Joe Biden and the Democrats are tearing down what we worked to build. Winning back the Senate Majority in 2022 is critical to the future of our America First agenda.
+
+I'M IN! LET'S WIN BACK THE SENATE MAJORITY!
+
+JOIN TODD'S TROOPS
+
+I am so proud of everything Republicans have accomplished in the past four years under President Trump. We passed meaningful tax cuts, confirmed three Supreme Court Justices, including Hoosier Amy Coney Barrett, and worked to secure our borders and defund sanctuary cities.
+
+So today, I’m announcing my re-election campaign, and I’m asking for your support:
+
+
+Number of links (dup removed)6
+
+All links:
+{'https://www.toddyoung.org/news', 'https://www.toddyoung.org/about', 'https://www.toddyoung.org/endorsements', 'https://secure.winred.com/todd-young/toddyoung?utm_source=website&utm_medium=header&utm_campaign=homepage_button', 'https://www.toddyoung.org/', 'https://www.toddyoung.org/volunteer'}

@@ -1,0 +1,38 @@
+Candidate: WILLIAMS, GRACE I DR
+Result:
+
+=====LINK SOURCE: https://www.drgraceforcongress.com/=====
+
+ <tag> strong
+
+
+
+
+www.drgraceforcongress.com
+
+ <tag> p
+
+
+
+
+Try:
+
+www.drgraceforcongress.com unexpectedly closed the connection.
+
+ <tag> li
+
+
+Checking the connection
+
+Checking the proxy and the firewall
+
+ <tag> span
+
+
+This site can’t be reached
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.drgraceforcongress.com/'}

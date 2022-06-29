@@ -1,0 +1,15 @@
+Candidate: ROBBINS, CRAIG
+Result:
+
+=====LINK SOURCE: http://robbinsforcongress.com/=====
+
+ <tag> span
+
+
+Privacy Policy
+
+
+Number of links (dup removed)4
+
+All links:
+{'http://robbinsforcongress.com/', 'http://robbinsforcongress.com/#!', 'https://www.godaddy.com/legal/agreements/privacy-policy?', 'https://www.godaddy.com/domainsearch/find?isc=GPPTCOM&utm_source=godaddy&utm_medium=parkedpages&utm_campaign=x_dom-broker_parkedpages_x_x_invest_a_001&tmskey=dpp_dbs&domainToCheck=robbinsforcongress.com'}

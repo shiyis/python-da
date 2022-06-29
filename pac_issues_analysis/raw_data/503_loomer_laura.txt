@@ -1,0 +1,57 @@
+Candidate: LOOMER, LAURA
+Result:
+
+=====LINK SOURCE: https://loomer2022.com/=====
+
+ <tag> h1
+
+
+Stand with Laura Loomer
+
+ <tag> h2
+
+
+HEAR FROM LAURA
+
+SUPPORT "AMERICA FIRST VALUES"
+
+ <tag> p
+
+
+
+
+COPYRIGHT © 2021 LAURA LOOMER FOR CONGRESS, INC. - ALL RIGHTS RESERVED.
+
+PAID FOR BY LAURA LOOMER FOR CONGRESS, INC.
+
+ <tag> li
+
+
+
+
+Contact
+
+Terms and Conditions
+
+Privacy Policy
+
+Donations
+
+Register to Vote
+
+ <tag> span
+
+
+
+
+PAID FOR BY LAURA LOOMER FOR CONGRESS, INC.
+
+COPYRIGHT © 2021 LAURA LOOMER FOR CONGRESS, INC. - ALL RIGHTS RESERVED.
+
+HEAR FROM LAURA
+
+
+Number of links (dup removed)5
+
+All links:
+{'https://loomer2022.com/', 'https://www.registertovoteflorida.gov/home', 'https://loomer2022.com/terms-and-conditions', 'https://loomer2022.com/privacy-policy', 'https://loomer2022.com/contact'}

@@ -1,0 +1,38 @@
+Candidate: LAMBERT, DOUGLAS WESTLEY III
+Result:
+
+=====LINK SOURCE: https://www.weslambertforcongress.com/?fbclid=IwAR0iQfiO-7iiE-91ISDexYq1_rUOje4Rw9n__J2LK96oLQfZ02xY-L1A5A8=====
+
+ <tag> strong
+
+
+
+
+www.weslambertforcongress.com
+
+ <tag> p
+
+
+
+
+Try:
+
+www.weslambertforcongress.com unexpectedly closed the connection.
+
+ <tag> li
+
+
+Checking the connection
+
+Checking the proxy and the firewall
+
+ <tag> span
+
+
+This site can’t be reached
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.weslambertforcongress.com/?fbclid=IwAR0iQfiO-7iiE-91ISDexYq1_rUOje4Rw9n__J2LK96oLQfZ02xY-L1A5A8'}

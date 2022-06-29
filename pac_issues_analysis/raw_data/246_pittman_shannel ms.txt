@@ -1,0 +1,29 @@
+Candidate: PITTMAN, SHANNEL MS
+Result:
+
+=====LINK SOURCE: http://electshannel.com/=====
+
+ <tag> strong
+
+
+
+
+electshannel.com
+
+ <tag> p
+
+
+
+
+electshannel.com didn’t send any data.
+
+ <tag> span
+
+
+This page isn’t working
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://electshannel.com/'}

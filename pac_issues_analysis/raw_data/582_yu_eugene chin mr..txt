@@ -1,0 +1,60 @@
+Candidate: YU, EUGENE CHIN MR.
+Result:
+
+=====LINK SOURCE: https://themissingelement.info/index.html=====
+
+ <tag> h2
+
+
+THEMISSINGELEMENT.INFO Non profit 501 c 3 Education Support Services Public Charity. ein # 81-4999678 September 15th, 2016 Director, Dr. Eugene Allen
+
+ <tag> p
+
+
+
+
+© 2021 themissingelement.info
+
+please highlight and right click donate button
+
+Follow us
+
+Dr. Eugene Allen
+
+81-499678
+
+321 Tranquility Lane
+
+Cedar Hill, Texas, 75104, United States
+
+ <tag> li
+
+
+
+
+Gallery
+
+Blog
+
+Contact us
+
+Location
+
+social science
+
+Home
+
+https://secure.anedot.com/dr-eugene-allen/donate
+
+ <tag> span
+
+
+
+
+© 2021 themissingelement.info
+
+
+Number of links (dup removed)7
+
+All links:
+{'https://themissingelement.info/location', 'https://themissingelement.info/blog', 'https://themissingelement.info/social-science', 'https://themissingelement.info/contact-us', 'https://themissingelement.info/index.html', 'https://themissingelement.info/', 'https://themissingelement.info/gallery'}

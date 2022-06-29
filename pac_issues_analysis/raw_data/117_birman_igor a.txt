@@ -1,0 +1,26 @@
+Candidate: BIRMAN, IGOR A
+Result:
+
+=====LINK SOURCE: http://igorbirman.com/=====
+
+ <tag> p
+
+
+
+
+Check if there is a typo in igorbirman.com.
+
+ <tag> span
+
+
+This site can’t be reached
+
+
+
+igorbirman.com
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://igorbirman.com/'}

@@ -1,0 +1,20 @@
+Candidate: COLLINS, KINA ISIS
+Result:
+
+=====LINK SOURCE: https://kinaforcongress.com/=====
+
+ <tag> h1
+
+
+kinaforcongress.com
+
+ <tag> p
+
+
+This Domain Name Has Expired - Renewal Instructions
+
+
+Number of links (dup removed)2
+
+All links:
+{'https://kinaforcongress.com/', 'https://sedoparking.com/privacy-policy/us/index.html'}

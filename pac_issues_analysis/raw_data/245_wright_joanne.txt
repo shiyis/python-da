@@ -1,0 +1,7 @@
+Candidate: WRIGHT, JOANNE
+Result:
+
+Number of links (dup removed)0
+
+All links:
+set()

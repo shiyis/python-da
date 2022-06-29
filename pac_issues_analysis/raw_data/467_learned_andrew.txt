@@ -1,0 +1,43 @@
+Candidate: LEARNED, ANDREW
+Result:
+
+=====LINK SOURCE: https://andrewlearned.com/=====
+
+ <tag> strong
+
+
+Make a Donation
+
+OR
+
+ <tag> p
+
+
+
+
+Make a Donation
+
+Prefer to mail a check?
+
+OR
+
+Monthly donations are the most helpful way to contribute because it empowers us to budget & plan ahead.
+
+ <tag> span
+
+
+
+
+Make a Donation
+
+Prefer to mail a check?
+
+OR
+
+Monthly donations are the most helpful way to contribute because it empowers us to budget & plan ahead.
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://andrewlearned.com/'}

@@ -1,0 +1,10 @@
+Candidate: GUINN, KENT
+Result:
+
+=====LINK SOURCE: https://kentguinnforflorida.com/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://kentguinnforflorida.com/'}

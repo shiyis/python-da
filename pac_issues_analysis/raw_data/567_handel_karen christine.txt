@@ -1,0 +1,15 @@
+Candidate: HANDEL, KAREN CHRISTINE
+Result:
+
+=====LINK SOURCE: https://karenhandel.com/=====
+
+ <tag> h1
+
+
+401 Authorization Required
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://karenhandel.com/'}

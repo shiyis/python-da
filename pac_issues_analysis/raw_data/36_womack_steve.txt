@@ -1,0 +1,132 @@
+Candidate: WOMACK, STEVE
+Result:Number of query: 15
+
+=====LINK SOURCE: https://www.womackforcongress.com/=====
+
+ <tag> h2
+
+
+Join the Team!
+
+ <tag> p
+
+
+Sign up to learn the latest news and information.
+
+About Steve Contact Newsroom Donate
+
+ <tag> span
+
+
+
+
+First Name
+
+Current Page:
+
+*
+
+Last Name
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.womackforcongress.com/'}
+
+=====LINK SOURCE: https://www.womackforcongress.com/contact=====
+
+ <tag> p
+
+
+
+
+PO Box 508 Rogers, AR. 72757
+
+Womack For Congress
+
+About Steve Contact Newsroom Donate
+
+You can also contact the campaign by using the contact form below.
+
+ <tag> span
+
+
+
+
+First Name
+
+Current Page:
+
+*
+
+Last Name
+
+
+Number of links (dup removed)2
+
+All links:
+{'https://www.womackforcongress.com/contact', 'https://www.womackforcongress.com/'}
+
+=====LINK SOURCE: https://www.womackforcongress.com/newsroom=====
+
+ <tag> p
+
+
+
+
+About Steve Contact Newsroom Donate
+
+ <tag> span
+
+
+
+
+11/6/18
+
+10/22/20
+
+11/6/19
+
+11/5/20
+
+Current Page:
+
+4/21/20
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://www.womackforcongress.com/contact', 'https://www.womackforcongress.com/', 'https://www.womackforcongress.com/newsroom'}
+
+=====LINK SOURCE: https://www.womackforcongress.com/about=====
+
+ <tag> h3
+
+
+About Steve:
+
+ <tag> p
+
+
+Steve has been married to his wife, Terri, for 35 years, and they have three sons, three grandsons, and a dog named Cooper.
+
+About Steve Contact Newsroom Donate
+
+Prior to his election to Congress, Representative Womack served as the Mayor of Rogers, Arkansas, for twelve years and in the Arkansas Army National Guard for over thirty years, retiring at the rank of Colonel.
+
+U.S. Representative Steve Womack was elected to represent Arkansas’s Third Congressional District in 2010. He is the Ranking Member of the House Budget Committee and sits on the House Appropriations Committee.
+
+ <tag> span
+
+
+
+
+Current Page:
+
+
+Number of links (dup removed)4
+
+All links:
+{'https://www.womackforcongress.com/contact', 'https://www.womackforcongress.com/', 'https://www.womackforcongress.com/about', 'https://www.womackforcongress.com/newsroom'}

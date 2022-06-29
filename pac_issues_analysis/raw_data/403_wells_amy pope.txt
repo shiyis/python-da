@@ -1,0 +1,10 @@
+Candidate: WELLS, AMY POPE
+Result:
+
+=====LINK SOURCE: https://amypopewells.com/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://amypopewells.com/'}

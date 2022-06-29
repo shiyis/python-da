@@ -1,0 +1,47 @@
+Candidate: BAER, DAN
+Result:
+
+=====LINK SOURCE: https://danforcolorado.com/=====
+
+ <tag> h4
+
+
+
+
+DONATE NOW
+
+ <tag> p
+
+
+“We need bold ideas to heal economic and social divides, to give all Coloradans a fair shake and a fair shot, and to reassert strong American leadership in the world.”
+
+
+
+Click on an option to get started. If you've saved your payment information with ActBlue Express, your donation will go through immediately.
+
+OR
+
+ <tag> span
+
+
+
+
+GET UPDATES
+
+$100
+
+$10
+
+Other
+
+$50
+
+$5
+
+$25
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://danforcolorado.com/'}

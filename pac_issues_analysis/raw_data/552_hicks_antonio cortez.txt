@@ -1,0 +1,29 @@
+Candidate: HICKS, ANTONIO CORTEZ
+Result:
+
+=====LINK SOURCE: https://www.ocasiocortez.com/accessibility=====
+
+ <tag> h1
+
+
+Accessibility policy
+
+ <tag> p
+
+
+Thank you for visiting my campaign website. If your intention was to visit my official House of Representatives website, please click here.
+
+Alexandria Ocasio-Cortez and her campaign is dedicated to ensuring that persons with disabilities have a full and equal opportunity to access the content offered on the ocasiocortez.com website. We are continuing to work to improve the accessibility standards of this website, and all pages will meet W3C's WAI's web content accessibility Guidelines 2.1, level AA conformance. If you are having trouble accessing content on the ocasiocortez.com website using a screen reader or other means, please email us@ocasiocortez.com for assistance.
+
+ <tag> span
+
+
+
+
+ES
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://www.ocasiocortez.com/accessibility', 'https://www.ocasiocortez.com/', 'https://www.ocasiocortez.com/covid19'}

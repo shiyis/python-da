@@ -1,0 +1,29 @@
+Candidate: HENG, ELIZABETH
+Result:
+
+=====LINK SOURCE: https://elizabethheng.com/home/=====
+
+ <tag> p
+
+
+The server can not find the requested page:
+
+ <tag> li
+
+
+
+
+elizabethheng.com/home/ (port 443)
+
+ <tag> span
+
+
+404
+
+Not Found
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://elizabethheng.com/home/'}

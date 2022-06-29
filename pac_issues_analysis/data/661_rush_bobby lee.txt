@@ -1,0 +1,100 @@
+Candidate: RUSH, BOBBY LEE
+Result:
+
+=====LINK SOURCE: https://citizens4rush.com/=====
+
+ <tag> h2
+
+
+Your Vote Is Your Voice
+
+Join The Team
+
+Register To Vote
+
+Support Bobby L. Rush
+
+Chip in $5 now to support Bobby Rush
+
+Contribute
+
+Get Involved
+
+Volunteer
+
+ <tag> h5
+
+
+Stay Updated
+
+Citizens For Rush
+
+ <tag> strong
+
+
+CITIZENS FOR RUSH
+
+ <tag> p
+
+
+
+
+© 2021 Citizens For Bobby L. Rush. All rights reserved.
+
+Past, Present & Proven
+
+CITIZENS FOR RUSH
+
+Web Design by: TS Design Studio
+
+Chicago, IL 60680
+
+P.O. Box 7292
+
+A Lifetime of Commitment:
+
+(312) 344-0507
+
+Paid For By
+
+ <tag> li
+
+
+
+
+The Issues
+
+Register To Vote
+
+In The Media
+
+Our District
+
+Meet Bobby
+
+Volunteer
+
+ <tag> span
+
+
+
+
+Donate
+
+Register To Vote
+
+GET INVOLVED
+
+Menu
+
+Contribute
+
+Get Involved
+
+Volunteer
+
+
+Number of links (dup removed)2
+
+All links:
+{'https://citizens4rush.com/', 'about:blank'}

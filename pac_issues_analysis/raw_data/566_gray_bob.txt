@@ -1,0 +1,29 @@
+Candidate: GRAY, BOB
+Result:
+
+=====LINK SOURCE: https://www.bobgrayga.com/=====
+
+ <tag> h1
+
+
+Future home of something quite cool.
+
+ <tag> strong
+
+
+visitor
+
+site owner
+
+ <tag> p
+
+
+If you're the site owner, log in to launch this site
+
+If you are a visitor, check back soon.
+
+
+Number of links (dup removed)2
+
+All links:
+{'https://www.bobgrayga.com/', 'about:blank'}

@@ -1,0 +1,37 @@
+Candidate: EGGMAN, MICHAEL RAY
+Result:
+
+=====LINK SOURCE: https://www.eggmanforcongress.com/splash=====
+
+ <tag> h2
+
+
+アクセスしようとしたページは見つかりませんでした。
+
+ <tag> h3
+
+
+以下のような原因が考えられます。
+
+ <tag> p
+
+
+このエラーは、指定したページが見つからなかったことを意味します。
+
+ <tag> li
+
+
+アクセスしようとしたファイルが存在しない（ファイルの設置箇所を誤っている）。
+
+URLアドレスが間違っている。
+
+ <tag> span
+
+
+404
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.eggmanforcongress.com/splash'}

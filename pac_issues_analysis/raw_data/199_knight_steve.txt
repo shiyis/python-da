@@ -1,0 +1,66 @@
+Candidate: KNIGHT, STEVE
+Result:
+
+=====LINK SOURCE: http://steveknight.org/=====
+
+ <tag> h2
+
+
+JOIN STEVE
+
+ <tag> h3
+
+
+A respected and distinguished member of his community and the nation he serves, Steve Knight has dedicated over three decades to public service.
+
+ <tag> strong
+
+
+
+
+Volunteer | Endorse | Yard Sign
+
+ <tag> p
+
+
+
+
+Volunteer | Endorse | Yard Sign
+
+As a U.S. Army veteran, 18-year veteran with the LAPD, and proven leader on the local, statewide and national level, Steve has helped to keep families and neighborhoods safe, increase job opportunities for all residents and protect the rights and principles cherished by those for which he provides a voice.
+
+A native of Southern California, Knight enlisted in the Army shortly after graduating High School – training at Fort Knox and being stationed in Friedberg, Germany. After completing his service in the Army, Knight was compelled to continue a career in uniform, joining the Los Angeles Police Department and working as an officer for nearly two decades.
+
+ <tag> li
+
+
+Name or Organization*
+
+
+
+Title
+
+ <tag> span
+
+
+
+
+ABOUT STEVE
+
+JOIN STEVE
+
+ENDORSEMENTS
+
+DONATE TODAY
+
+VOLUNTEER
+
+25 FOR THE 25th
+
+*
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://steveknight.org/'}

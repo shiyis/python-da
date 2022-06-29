@@ -1,0 +1,10 @@
+Candidate: LOWENTHAL, ALAN
+Result:
+
+=====LINK SOURCE: https://www.alanlowenthal.com/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.alanlowenthal.com/'}

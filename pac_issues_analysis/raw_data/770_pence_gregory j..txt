@@ -1,0 +1,65 @@
+Candidate: PENCE, GREGORY J.
+Result:
+
+=====LINK SOURCE: https://gregpenceforcongress.com/=====
+
+ <tag> h1
+
+
+
+
+Join Greg Pence today!
+
+ <tag> h2
+
+
+Keep up with Greg!
+
+Ready To Serve Again!
+
+Want a Yard Sign?CLICK HERE!
+
+About Greg
+
+ <tag> p
+
+
+
+
+Greg is a staunch supporter of the Trump-Pence agenda and will fight alongside the President to Make America Great Again. Greg Pence will ensure Indiana’s Sixth District continues its strong tradition of leadership in Congress.
+
+Greg joined the Marine Corps at a young age in 1979 in his hometown of Columbus, Indiana. Today, Greg feels that same calling to serve his country and the people in the Sixth District. Having served as an officer in the Marines, Greg understands the Sixth District needs a leader who will serve its constituents rather than serve special interests. Greg Pence will fight for Hoosier values, not D.C. values.
+
+Greg Pence is a proud husband, grandfather, Marine officer and small businessman. He is an unwavering pro-life, pro-Second Amendment, and faith-driven conservative whose roots in the Sixth District date back nearly 60 years.
+
+ <tag> li
+
+
+
+
+Donate
+
+Request a Yard Sign
+
+About Greg
+
+Videos
+
+Get Involved
+
+ <tag> span
+
+
+
+
+Paid for by Greg Pence For Congress
+
+Follow Us:
+
+Join Greg Pence today!
+
+
+Number of links (dup removed)7
+
+All links:
+{'https://secure.winred.com/gregpence/donate/', 'https://gregpenceforcongress.com/about/', 'https://gregpenceforcongress.com/get-involved/', 'https://gregpenceforcongress.com/request-a-yard-sign/', 'https://gregpenceforcongress.com/videos/', 'https://gregpenceforcongress.com/', 'https://secure.gregpencevictory.com/donate/'}

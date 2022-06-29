@@ -1,0 +1,15 @@
+Candidate: CLIFFORD, BILL DR
+Result:
+
+=====LINK SOURCE: https://www.cliffordforcongress.com/=====
+
+ <tag> h1
+
+
+Cliffordforcongress.com
+
+
+Number of links (dup removed)3
+
+All links:
+{'https://www.cliffordforcongress.com/', 'https://www.cliffordforcongress.com/listing', 'about:blank'}

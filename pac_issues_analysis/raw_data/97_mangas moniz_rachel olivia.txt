@@ -1,0 +1,26 @@
+Candidate: MANGAS MONIZ, RACHEL OLIVIA
+Result:
+
+=====LINK SOURCE: https://www.rachelmoniz.com/=====
+
+ <tag> p
+
+
+
+
+Check if there is a typo in www.rachelmoniz.com.
+
+ <tag> span
+
+
+This site can’t be reached
+
+
+
+www.rachelmoniz.com
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.rachelmoniz.com/'}

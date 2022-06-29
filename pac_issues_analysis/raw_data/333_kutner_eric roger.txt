@@ -1,0 +1,38 @@
+Candidate: KUTNER, ERIC ROGER
+Result:
+
+=====LINK SOURCE: https://kutnercongress.com/=====
+
+ <tag> strong
+
+
+
+
+kutnercongress.com
+
+ <tag> p
+
+
+
+
+kutnercongress.com unexpectedly closed the connection.
+
+Try:
+
+ <tag> li
+
+
+Checking the proxy and the firewall
+
+Checking the connection
+
+ <tag> span
+
+
+This site can’t be reached
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://kutnercongress.com/'}

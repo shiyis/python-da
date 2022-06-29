@@ -1,0 +1,126 @@
+Candidate: HALL, SETH BLANE
+Result:
+
+=====LINK SOURCE: https://www.blaineforcongress.com/=====
+
+ <tag> h1
+
+
+BLAINE LUETKEMEYER
+
+Blaine For Congress
+
+ <tag> h2
+
+
+SUPPORT BLAINE
+
+BECOME A VOLUNTEER
+
+ <tag> h3
+
+
+ISSUES
+
+The Issues
+
+MEET BLAINE
+
+LATEST
+
+The Congressman
+
+Donate Today
+
+ <tag> h4
+
+
+
+
+JOIN THE CAMPAIGN!
+
+House Set to Vote Next Tuesday on Senate...
+
+House votes to expand veterans’ ac...
+
+ <tag> strong
+
+
+Conservative.
+
+ <tag> p
+
+
+
+
+Want to know more about where the Congressman stands on the key issues facing Missouri, and the nation? Check out our issues page to learn more now!
+
+Congressman Blaine Luetkemeyer has championed our shared values in Congress since the day he was elected — and will continue to do so in the days to come. Want to learn more? Check out this link for more information!
+
+Want to know more about where Congressman Luetkemeyer stands on the important issues facing our state and nation? Check out this link to learn more now!
+
+Want to make an immediate impact on the Congressman’s campaign? Chip in a donation now and help us amplify our message across Missouri’s 3rd Congressional District.
+
+Check out the latest news from the Congressman’s work in D.C. and his travels across Missouri’s 3rd Congressional District.
+
+A native of St. Elizabeth, Mo., in Miller County, Blaine Luetkemeyer is a lifelong resident of the district and knows what it takes to improve the economy and create jobs from his more than 30 years of experience as a small businessman.
+
+Luetkemeyer was first elected to the U.S. House of Representatives in 2008 and was re-elected in 2010, 2012, 2014, and 2016. He has been endorsed by NFIB, Missouri Right to Life, and the Us Chamber for reelection in 2018.
+
+Sign-up today to get all the latest news and information from the Congressman, and our campaign team.
+
+Read More
+
+Farmer. Small Businessman. Conservative.
+
+The House plans to vote next Tuesday on Senate-passed legislation that would free regional and community banks from some of the toughest requirements of...
+
+(CNN)House lawmakers on Wednesday overwhelmingly passed legislation expanding veterans’ access to private care at taxpayer expense, a campaign promise of President Donald Trump, and...
+
+ <tag> li
+
+
+
+
+Facebook
+
+Issues
+
+Twitter
+
+DONATE
+
+Meet Blaine
+
+Latest
+
+Get Involved
+
+ <tag> span
+
+
+
+
+17
+
+Issues
+
+DONATE
+
+Meet Blaine
+
+15
+
+PAID FOR BY BLAINE FOR CONGRESS
+
+MAY
+
+Latest
+
+Get Involved
+
+
+Number of links (dup removed)8
+
+All links:
+{'https://twitter.com/luetkemeyerb', 'https://secure.winred.com/blaine-for-congress/website', 'https://www.blaineforcongress.com/get-involved/', 'https://www.blaineforcongress.com/meet-blaine/', 'https://www.blaineforcongress.com/', 'https://www.blaineforcongress.com/issues/', 'https://www.facebook.com/blaineforcongress', 'https://www.blaineforcongress.com/latest/'}

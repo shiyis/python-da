@@ -1,0 +1,19 @@
+Candidate: WHALLON, ANDREW
+Result:
+
+=====LINK SOURCE: http://www.andywhallon.com/=====
+
+ <tag> li
+
+
+Go to Wix.com > Subscriptions > Domains
+
+Click Use a Domain You Already Own
+
+Follow the steps to connect your domain to your website
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://www.andywhallon.com/'}

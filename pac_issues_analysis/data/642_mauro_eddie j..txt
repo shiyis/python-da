@@ -1,0 +1,75 @@
+Candidate: MAURO, EDDIE J.
+Result:
+
+=====LINK SOURCE: https://eddiemauro.com/=====
+
+ <tag> h2
+
+
+DEMOCRAT U.S. SENATE 2020
+
+
+
+EDDIE MAURO
+
+FOR IOWA
+
+LIVE STREAMS
+
+ <tag> h5
+
+
+MAURO FOR TOMORROW
+
+WHO IS
+
+JOIN THE FIGHT
+
+ <tag> p
+
+
+Eddie Mauro has been involved in community service, activism, and organizing; fighting for social, economic and environmental justice for many years.
+
+Check in with us daily Monday-Saturday at 4:00 PM for “In the Cage” and on Tuesdays & Fridays at 7:00 PM for LIVE town halls.
+
+PAID FOR BY MAURO SENATE CAMPAIGN TEAM
+
+Due to the COVID-19 pandemic, we have taken our campaign online!
+
+ <tag> li
+
+
+
+
+POLICIES
+
+ENDORSEMENTS
+
+VOLUNTEER
+
+BIO
+
+NEWS
+
+FACTS
+
+EVENTS
+
+ESPAÑOL
+
+ <tag> span
+
+
+
+
+U.S. SENATE
+
+DEMOCRAT
+
+2020
+
+
+Number of links (dup removed)9
+
+All links:
+{'https://eddiemauro.com/', 'https://eddiemauro.com/bio', 'https://www.mobilize.us/mauroforsenate/', 'https://www.voteearlyiowa.org/', 'https://eddiemauro.com/just-the-facts', 'https://eddiemauro.com/endorsements', 'https://eddiemauro.com/press', 'https://eddiemauro.com/espanol', 'https://eddiemauro.com/issues'}

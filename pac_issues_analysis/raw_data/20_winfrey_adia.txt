@@ -1,0 +1,15 @@
+Candidate: WINFREY, ADIA
+Result:
+
+=====LINK SOURCE: http://www.winfrey4congress.com/=====
+
+ <tag> h3
+
+
+Page not found
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://www.winfrey4congress.com/'}

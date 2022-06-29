@@ -1,0 +1,19 @@
+Candidate: GRIFFIN, SHEILA
+Result:
+
+=====LINK SOURCE: https://www.votegriffin.us/=====
+
+ <tag> li
+
+
+Click Use a Domain You Already Own
+
+Go to Wix.com > Subscriptions > Domains
+
+Follow the steps to connect your domain to your website
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.votegriffin.us/'}

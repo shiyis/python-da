@@ -1,0 +1,26 @@
+Candidate: AMADOR, ANTONIO
+Result:
+
+=====LINK SOURCE: http://www.amadorforcongress.net/=====
+
+ <tag> p
+
+
+
+
+Check if there is a typo in www.amadorforcongress.net.
+
+ <tag> span
+
+
+This site can’t be reached
+
+
+
+www.amadorforcongress.net
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://www.amadorforcongress.net/'}

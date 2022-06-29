@@ -1,0 +1,101 @@
+Candidate: IVES, JEANNE
+Result:
+
+=====LINK SOURCE: https://www.jeanneforcongress.com/=====
+
+ <tag> h1
+
+
+
+
+How To Help!
+
+ <tag> h2
+
+
+All In For Ives
+
+News
+
+Latest News Updates from Jeanne's Campaign
+
+Join Jeanne's Team!
+
+Videos
+
+Illinois’s 6th Congressional District
+
+Proven Independent Leadership
+
+Quick Links
+
+ <tag> h3
+
+
+Become a volunteer
+
+Stay up-to-date with Jeanne's campaign for congress.
+
+ <tag> strong
+
+
+Jeanne For Congress
+
+ <tag> p
+
+
+
+
+Every one of Jeanne’s campaigns has been fueled by dedicated and hardworking grassroots volunteers.
+
+Early Vote!
+
+Jeanne For Congress
+
+Click Here to Donate Today
+
+Join the growing coalition of volunteers who are behind Jeanne’s campaign for congress!
+
+Mom. Veteran. Leader. Chip in Today!
+
+PO Box 1504 • Wheaton, IL 60187 Phone: 630-384-9683 • Email: info@jeanneforcongress.com
+
+ <tag> li
+
+
+
+
+CANDIDATE PETITION FORM
+
+VOLUNTEER
+
+NEWS
+
+EVENTS
+
+READ JEANNE’S DEBATE NOTES
+
+ <tag> span
+
+
+
+
+See More Videos
+
+SIGN UP TODAY!
+
+Paid for by Jeanne for Congress
+
+Early Vote!
+
+MORE FROM NEWS
+
+Click Here to Donate Today
+
+MENU
+
+
+Number of links (dup removed)5
+
+All links:
+{'https://action.jeanneforcongress.com/events', 'https://www.jeanneforcongress.com/candidate-petition-form/', 'https://www.jeanneforcongress.com/', 'https://www.jeanneforcongress.com/news/', 'https://action.jeanneforcongress.com/volunteer'}

@@ -1,0 +1,10 @@
+Candidate: GALBRAITH, ALLISON
+Result:
+
+=====LINK SOURCE: https://www.flipthefirst.com/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://www.flipthefirst.com/'}

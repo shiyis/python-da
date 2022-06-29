@@ -1,0 +1,10 @@
+Candidate: HENDERSON, RANDY
+Result:
+
+=====LINK SOURCE: https://hendersonforflorida.com/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'https://hendersonforflorida.com/'}

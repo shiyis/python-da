@@ -1,0 +1,10 @@
+Candidate: VALDEZ, DONALD
+Result:
+
+=====LINK SOURCE: http://valdezforco.com/=====
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://valdezforco.com/'}

@@ -1,0 +1,7 @@
+Candidate: ROGERS, ROBERT L
+Result:Number of query: 46
+
+Number of links (dup removed)0
+
+All links:
+set()

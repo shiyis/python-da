@@ -1,0 +1,20 @@
+Candidate: PURKIS, ANGELIKA MRS.
+Result:
+
+=====LINK SOURCE: http://kimberlyforcongress.com/=====
+
+ <tag> h2
+
+
+Not Found
+
+ <tag> p
+
+
+HTTP Error 404. The requested resource is not found.
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://kimberlyforcongress.com/'}

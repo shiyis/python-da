@@ -1,0 +1,26 @@
+Candidate: DURAN, CRISANTA DESIRAE
+Result:
+
+=====LINK SOURCE: http://duranforcolorado.com/=====
+
+ <tag> p
+
+
+Check if there is a typo in duranforcolorado.com.
+
+
+
+ <tag> span
+
+
+
+
+This site can’t be reached
+
+duranforcolorado.com
+
+
+Number of links (dup removed)1
+
+All links:
+{'http://duranforcolorado.com/'}

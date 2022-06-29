@@ -1,0 +1,31 @@
+Candidate: BAIRD, JAMES R DR.
+Result:
+
+=====LINK SOURCE: http://www.electjimbaird.com/=====
+
+ <tag> h2
+
+
+SIGN UP TO SHOW YOUR SUPPORT
+
+ <tag> p
+
+
+- JIM BAIRD
+
+“We need new leaders in Washington who will stand up for West Central Indiana and get things done for the American people.”
+
+ <tag> span
+
+
+
+
+SUBMIT
+
+TO SHOW YOUR SUPPORT
+
+
+Number of links (dup removed)2
+
+All links:
+{'http://www.electjimbaird.com/', 'about:blank'}
