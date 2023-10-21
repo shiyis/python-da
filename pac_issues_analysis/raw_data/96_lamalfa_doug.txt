@@ -1,7 +1,0 @@
-Candidate: LAMALFA, DOUG
-Result:
-
-Number of links (dup removed)0
-
-All links:
-set()

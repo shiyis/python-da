@@ -1,7 +1,0 @@
-Candidate: LAWSON, KRISTOFER STEVEN
-Result:
-
-Number of links (dup removed)0
-
-All links:
-set()

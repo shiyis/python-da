@@ -1,7 +1,0 @@
-Candidate: RODRIGUEZ, JIMMY
-Result:
-
-Number of links (dup removed)0
-
-All links:
-set()

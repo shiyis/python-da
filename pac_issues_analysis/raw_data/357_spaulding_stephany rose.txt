@@ -1,7 +1,0 @@
-Candidate: SPAULDING, STEPHANY ROSE
-Result:
-
-Number of links (dup removed)0
-
-All links:
-set()
